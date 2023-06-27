@@ -1,0 +1,5 @@
+{
+  "chainId": "juno-1",
+  "rest": "https://lcd-juno.keplr.app",
+  "bech32PrefixAccAddr": "juno"
+}
