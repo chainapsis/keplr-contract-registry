@@ -52,6 +52,7 @@
     "joi": "^17.9.2",
     "koa": "^2.14.2",
     "koa-router": "^12.0.0",
-    "miscreant": "^0.3.2"
+    "miscreant": "^0.3.2",
+    "serverless-http": "^3.2.0"
   }
 }

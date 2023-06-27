@@ -6,6 +6,7 @@ import { Bech32Address } from "@keplr-wallet/cosmos";
 import Koa from "koa";
 import Router from "koa-router";
 import { getChainBaseMap } from "./utils";
+import ServerlessHttp from "serverless-http";
 
 const baseDir = Path.join(__dirname, "..", "cosmos");
 const chainBaseMap = getChainBaseMap(baseDir);
@@ -128,6 +129,12 @@ router.get("/tokens/:chain/:contract", (ctx) => {
 
 app.use(router.routes()).use(router.allowedMethods());
 
-app.listen(4000, () => {
-  console.log("Server started on port 4000");
-});
+const isAWSLambda = !!(process.env as any).LAMBDA_TASK_ROOT;
+
+if (!isAWSLambda) {
+  app.listen(4000, () => {
+    console.log("Server started on port 4000");
+  });
+} else {
+  module.exports.handler = ServerlessHttp(app);
+}
