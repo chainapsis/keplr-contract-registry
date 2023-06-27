@@ -84,6 +84,48 @@ router.get("/tokens/:chain", (ctx) => {
   ctx.body = tokens;
 });
 
+const contractCache: Map<string, CW20Token | null> = new Map();
+router.get("/tokens/:chain/:contract", (ctx) => {
+  const chain = ctx.params["chain"];
+  if (!chain) {
+    ctx.status = 400;
+    ctx.body = "Invalid chain";
+    return;
+  }
+  const tokens = chainTokensMap[chain];
+  if (!tokens || tokens.length === 0) {
+    ctx.status = 404;
+    ctx.body = "No tokens found";
+    return;
+  }
+  const contract = ctx.params["contract"];
+  const cached = contractCache.get(`${chain}:${contract}`);
+  if (cached !== undefined) {
+    if (cached === null) {
+      ctx.status = 404;
+      ctx.body = "No token found";
+      return;
+    }
+
+    ctx.body = cached;
+    return;
+  }
+
+  const token = tokens.find((token) => {
+    return token.contractAddress === contract;
+  });
+  if (!token) {
+    contractCache.set(`${chain}:${contract}`, null);
+    ctx.status = 404;
+    ctx.body = "No token found";
+    return;
+  } else {
+    contractCache.set(`${chain}:${contract}`, token);
+  }
+
+  ctx.body = token;
+});
+
 app.use(router.routes()).use(router.allowedMethods());
 
 app.listen(4000, () => {
