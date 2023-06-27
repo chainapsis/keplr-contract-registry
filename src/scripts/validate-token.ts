@@ -8,6 +8,8 @@ import { sortedJsonByKeyStringify } from "@keplr-wallet/common";
 
 (async () => {
   try {
+    const baseMap = getChainBaseMap(Path.join(__dirname, "..", "..", "cosmos"));
+
     // get file names
     const args = process.argv.slice(2);
 
@@ -28,12 +30,13 @@ import { sortedJsonByKeyStringify } from "@keplr-wallet/common";
           return path.slice(i + 7, j);
         })();
 
-        const baseMap = getChainBaseMap(
-          Path.join(__dirname, "..", "..", "cosmos")
-        );
         const base = baseMap[chain];
         if (!base) {
           throw new Error(`Base is not found for ${chain}`);
+        }
+
+        if (!path.endsWith(`${validated.value.contractAddress}.json`)) {
+          throw new Error("File path and contract address is not matched");
         }
 
         Bech32Address.validate(
