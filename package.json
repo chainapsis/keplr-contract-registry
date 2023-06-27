@@ -27,6 +27,8 @@
   "author": "",
   "license": "Apache-2.0",
   "devDependencies": {
+    "@pulumi/aws": "^5.41.0",
+    "@pulumi/pulumi": "^3.73.0",
     "@types/koa": "^2.13.6",
     "@types/koa-router": "^7.4.4",
     "@types/node": "^18",
