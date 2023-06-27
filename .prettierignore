@@ -13,6 +13,7 @@ node_modules
 dist/*
 prod/*
 build/*
+bundle/*
 
 yarn.lock
 Podfile.lock
