@@ -1,0 +1,6 @@
+{
+  "watch": ["src/**/*.ts", "cosmos/**/*.json"],
+  "ext": "ts,js,mjs,json",
+  "ignore": ["src/**/*.spec.ts"],
+  "exec": "ts-node ./src/index.ts"
+}

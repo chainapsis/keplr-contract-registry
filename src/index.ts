@@ -1,53 +1,24 @@
 import FS from "fs";
 import Path from "path";
-import { ChainBaseScheme, CW20TokenScheme } from "./scheme";
+import { CW20TokenScheme } from "./scheme";
 import { CW20Token } from "./types";
-import { ChainIdHelper } from "@keplr-wallet/cosmos";
+import { Bech32Address } from "@keplr-wallet/cosmos";
 import Koa from "koa";
 import Router from "koa-router";
+import { getChainBaseMap } from "./utils";
 
 const baseDir = Path.join(__dirname, "..", "cosmos");
-const chains = FS.readdirSync(baseDir)
-  .filter((file) => {
-    return FS.lstatSync(
-      Path.join(Path.join(__dirname, "..", "cosmos"), file)
-    ).isDirectory();
-  })
-  .filter((chain) => {
-    try {
-      return FS.lstatSync(
-        Path.join(Path.join(__dirname, "..", "cosmos"), chain, "base.json")
-      ).isFile();
-    } catch (e) {
-      console.log(e);
-      return false;
-    }
-  })
-  .filter((chain) => {
-    try {
-      const buf = FS.readFileSync(
-        Path.join(Path.join(__dirname, "..", "cosmos"), chain, "base.json")
-      );
-      const json = JSON.parse(buf.toString());
-      const validated = ChainBaseScheme.validate(json);
-      if (validated.error) {
-        throw validated.error;
-      }
-      const chainIdentifier = ChainIdHelper.parse(validated.value.chainId);
-      if (chainIdentifier.identifier !== chain) {
-        throw new Error(
-          `Chain identifier is not matched: ${chainIdentifier.identifier} vs ${chain}`
-        );
-      }
-      return true;
-    } catch (e) {
-      console.log(e);
-      return false;
-    }
-  });
+const chainBaseMap = getChainBaseMap(baseDir);
+const chains = Object.keys(chainBaseMap);
 
 const chainTokensMap: Record<string, CW20Token[] | undefined> = {};
 for (const chain of chains) {
+  const chainBase = chainBaseMap[chain];
+  if (!chainBase) {
+    console.log(`Chain base is not found for ${chain}`);
+    continue;
+  }
+
   const tokens: CW20Token[] = chainTokensMap[chain] || [];
   let files: string[];
   try {
@@ -75,6 +46,10 @@ for (const chain of chains) {
       if (validated.error) {
         throw validated.error;
       }
+      Bech32Address.validate(
+        validated.value.contractAddress,
+        chainBase.bech32PrefixAccAddr
+      );
       tokens.push(validated.value);
     } catch (e) {
       console.log(e);
