@@ -1,0 +1,9 @@
+{
+  "contractAddress": "juno1rws84uz7969aaa7pej303udhlkt3j9ca0l3egpcae98jwak9quzq8szn2l",
+  "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/phmn.svg",
+  "metadata": {
+    "name": "POSTHUMAN",
+    "symbol": "PHMN",
+    "decimals": 6
+  }
+}
