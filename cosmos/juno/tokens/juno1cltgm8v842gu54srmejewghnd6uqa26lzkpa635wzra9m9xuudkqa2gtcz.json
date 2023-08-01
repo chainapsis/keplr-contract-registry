@@ -1,0 +1,9 @@
+{
+  "contractAddress": "juno1cltgm8v842gu54srmejewghnd6uqa26lzkpa635wzra9m9xuudkqa2gtcz",
+  "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/fury.webp",
+  "metadata": {
+    "name": "Fury",
+    "symbol": "FURY",
+    "decimals": 6
+  }
+}
