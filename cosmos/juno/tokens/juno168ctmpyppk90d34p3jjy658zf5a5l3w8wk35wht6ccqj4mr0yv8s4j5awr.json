@@ -1,5 +1,6 @@
 {
   "contractAddress": "juno168ctmpyppk90d34p3jjy658zf5a5l3w8wk35wht6ccqj4mr0yv8s4j5awr",
+  "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/neta.svg",
   "metadata": {
     "name": "NETA",
     "symbol": "NETA",
