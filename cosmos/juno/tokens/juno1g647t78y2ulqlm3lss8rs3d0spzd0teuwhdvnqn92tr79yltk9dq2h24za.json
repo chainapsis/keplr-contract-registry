@@ -1,0 +1,9 @@
+{
+  "contractAddress": "juno1g647t78y2ulqlm3lss8rs3d0spzd0teuwhdvnqn92tr79yltk9dq2h24za",
+  "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/red.png",
+  "metadata": {
+    "name": "Red",
+    "symbol": "RED",
+    "decimals": 6
+  }
+}

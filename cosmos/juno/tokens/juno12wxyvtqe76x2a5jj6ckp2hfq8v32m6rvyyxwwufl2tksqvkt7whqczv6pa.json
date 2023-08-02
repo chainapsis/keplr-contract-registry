@@ -1,0 +1,9 @@
+{
+  "contractAddress": "juno12wxyvtqe76x2a5jj6ckp2hfq8v32m6rvyyxwwufl2tksqvkt7whqczv6pa",
+  "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/catom.png",
+  "metadata": {
+    "name": "CATOM",
+    "symbol": "CATOM",
+    "decimals": 6
+  }
+}

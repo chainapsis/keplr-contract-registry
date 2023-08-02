@@ -1,0 +1,9 @@
+{
+  "contractAddress": "juno1mkw83sv6c7sjdvsaplrzc8yaes9l42p4mhy0ssuxjnyzl87c9eps7ce3m9",
+  "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/wynd.svg",
+  "metadata": {
+    "name": "Wynd DAO Governance Token",
+    "symbol": "WYND",
+    "decimals": 6
+  }
+}

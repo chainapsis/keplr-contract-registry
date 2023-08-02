@@ -1,0 +1,9 @@
+{
+  "contractAddress": "juno1g2g7ucurum66d42g8k5twk34yegdq8c82858gz0tq2fc75zy7khssgnhjl",
+  "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/marble.png",
+  "metadata": {
+    "name": "MARBLE",
+    "symbol": "MARBLE",
+    "decimals": 3
+  }
+}

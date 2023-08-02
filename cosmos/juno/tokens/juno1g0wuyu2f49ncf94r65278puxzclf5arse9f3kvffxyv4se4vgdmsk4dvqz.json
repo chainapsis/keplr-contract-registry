@@ -1,0 +1,9 @@
+{
+  "contractAddress": "juno1g0wuyu2f49ncf94r65278puxzclf5arse9f3kvffxyv4se4vgdmsk4dvqz",
+  "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/howl.png",
+  "metadata": {
+    "name": "Howl Token",
+    "symbol": "HOWL",
+    "decimals": 6
+  }
+}

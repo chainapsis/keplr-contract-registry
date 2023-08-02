@@ -1,0 +1,9 @@
+{
+  "contractAddress": "juno1gz8cf86zr4vw9cjcyyv432vgdaecvr9n254d3uwwkx9rermekddsxzageh",
+  "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/gkey.png",
+  "metadata": {
+    "name": "GKey",
+    "symbol": "GKEY",
+    "decimals": 6
+  }
+}

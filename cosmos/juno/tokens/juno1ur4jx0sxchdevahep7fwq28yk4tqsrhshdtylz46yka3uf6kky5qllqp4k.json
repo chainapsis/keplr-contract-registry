@@ -1,0 +1,9 @@
+{
+  "contractAddress": "juno1ur4jx0sxchdevahep7fwq28yk4tqsrhshdtylz46yka3uf6kky5qllqp4k",
+  "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/hns.svg",
+  "metadata": {
+    "name": "Handshake",
+    "symbol": "HNS",
+    "decimals": 6
+  }
+}

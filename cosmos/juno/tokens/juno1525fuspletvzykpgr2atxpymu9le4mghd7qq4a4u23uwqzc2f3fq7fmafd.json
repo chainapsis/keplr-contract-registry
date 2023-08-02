@@ -1,0 +1,9 @@
+{
+  "contractAddress": "juno1525fuspletvzykpgr2atxpymu9le4mghd7qq4a4u23uwqzc2f3fq7fmafd",
+  "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/middle.png",
+  "metadata": {
+    "name": "MIDDLE",
+    "symbol": "MIDDLE",
+    "decimals": 6
+  }
+}

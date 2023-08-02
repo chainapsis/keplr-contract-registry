@@ -1,0 +1,9 @@
+{
+  "contractAddress": "juno1qmlchtmjpvu0cr7u0tad2pq8838h6farrrjzp39eqa9xswg7teussrswlq",
+  "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/nride.svg",
+  "metadata": {
+    "name": "NRIDE",
+    "symbol": "NRIDE",
+    "decimals": 6
+  }
+}

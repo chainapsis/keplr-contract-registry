@@ -1,0 +1,9 @@
+{
+  "contractAddress": "juno12mcwmd6wqhledkjsurlfqtc8j0pedvxlcxw3gs4kh2qf808ehehsen8nmw",
+  "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/yfd.png",
+  "metadata": {
+    "name": "Y-Foundry DAO",
+    "symbol": "YFD",
+    "decimals": 6
+  }
+}

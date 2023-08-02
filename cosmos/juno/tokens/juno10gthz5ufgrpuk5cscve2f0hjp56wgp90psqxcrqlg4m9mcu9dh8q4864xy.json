@@ -1,0 +1,9 @@
+{
+  "contractAddress": "juno10gthz5ufgrpuk5cscve2f0hjp56wgp90psqxcrqlg4m9mcu9dh8q4864xy",
+  "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/kleomedes.png",
+  "metadata": {
+    "name": "Kleomedes",
+    "symbol": "KLEO",
+    "decimals": 6
+  }
+}

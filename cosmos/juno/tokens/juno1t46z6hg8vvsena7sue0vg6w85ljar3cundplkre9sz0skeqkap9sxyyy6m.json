@@ -1,0 +1,9 @@
+{
+  "contractAddress": "juno1t46z6hg8vvsena7sue0vg6w85ljar3cundplkre9sz0skeqkap9sxyyy6m",
+  "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/hole.png",
+  "metadata": {
+    "name": "BlackHole",
+    "symbol": "HOLE",
+    "decimals": 6
+  }
+}

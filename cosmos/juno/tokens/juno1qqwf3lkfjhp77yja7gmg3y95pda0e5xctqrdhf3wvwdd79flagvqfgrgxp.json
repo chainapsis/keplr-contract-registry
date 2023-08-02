@@ -1,0 +1,9 @@
+{
+  "contractAddress": "juno1qqwf3lkfjhp77yja7gmg3y95pda0e5xctqrdhf3wvwdd79flagvqfgrgxp",
+  "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/sikoba.svg",
+  "metadata": {
+    "name": "Sikoba @ Juno",
+    "symbol": "SKOJ",
+    "decimals": 6
+  }
+}

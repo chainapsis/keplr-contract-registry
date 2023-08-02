@@ -1,0 +1,9 @@
+{
+  "contractAddress": "juno1n7n7d5088qlzlj37e9mgmkhx6dfgtvt02hqxq66lcap4dxnzdhwqfmgng3",
+  "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/joe.png",
+  "metadata": {
+    "name": "JoeDAO",
+    "symbol": "JOE",
+    "decimals": 6
+  }
+}

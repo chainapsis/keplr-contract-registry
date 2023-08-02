@@ -1,0 +1,9 @@
+{
+  "contractAddress": "juno1dyyf7pxeassxvftf570krv7fdf5r8e4r04mp99h0mllsqzp3rs4q7y8yqg",
+  "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/spacer.png",
+  "metadata": {
+    "name": "Spacer",
+    "symbol": "SPACER",
+    "decimals": 6
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "contractAddress": "juno1uu3rxu7w7fpfj4sl4xpxppgymk57mzdzn6kg7492jdxh5dwk7d2qq9429e",
+  "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/livingtree.png",
+  "metadata": {
+    "name": "TREE",
+    "symbol": "TREE",
+    "decimals": 6
+  }
+}

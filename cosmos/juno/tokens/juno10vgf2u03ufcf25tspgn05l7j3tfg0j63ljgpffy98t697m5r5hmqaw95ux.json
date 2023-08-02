@@ -1,0 +1,9 @@
+{
+  "contractAddress": "juno10vgf2u03ufcf25tspgn05l7j3tfg0j63ljgpffy98t697m5r5hmqaw95ux",
+  "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/silica.png",
+  "metadata": {
+    "name": "Silica",
+    "symbol": "SLCA",
+    "decimals": 6
+  }
+}

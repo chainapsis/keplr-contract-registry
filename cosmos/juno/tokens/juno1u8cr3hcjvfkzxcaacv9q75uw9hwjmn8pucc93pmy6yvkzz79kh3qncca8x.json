@@ -1,0 +1,9 @@
+{
+  "contractAddress": "juno1u8cr3hcjvfkzxcaacv9q75uw9hwjmn8pucc93pmy6yvkzz79kh3qncca8x",
+  "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/fox.png",
+  "metadata": {
+    "name": "Juno Fox",
+    "symbol": "FOX",
+    "decimals": 6
+  }
+}

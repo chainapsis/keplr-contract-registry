@@ -1,0 +1,9 @@
+{
+  "contractAddress": "juno1ngww7zxak55fql42wmyqrr4rhzpne24hhs4p3w4cwhcdgqgr3hxsmzl9zg",
+  "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/clst.png",
+  "metadata": {
+    "name": "Celestias",
+    "symbol": "CLST",
+    "decimals": 6
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "contractAddress": "juno17wzaxtfdw5em7lc94yed4ylgjme63eh73lm3lutp2rhcxttyvpwsypjm4w",
+  "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/asvt.png",
+  "metadata": {
+    "name": "Another.Software Validator Token",
+    "symbol": "ASVT",
+    "decimals": 6
+  }
+}
+

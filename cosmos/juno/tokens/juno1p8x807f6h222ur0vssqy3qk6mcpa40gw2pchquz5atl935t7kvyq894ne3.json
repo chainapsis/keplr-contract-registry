@@ -1,0 +1,9 @@
+{
+  "contractAddress": "juno1p8x807f6h222ur0vssqy3qk6mcpa40gw2pchquz5atl935t7kvyq894ne3",
+  "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/muse.png",
+  "metadata": {
+    "name": "MUSE",
+    "symbol": "MUSE",
+    "decimals": 6
+  }
+}

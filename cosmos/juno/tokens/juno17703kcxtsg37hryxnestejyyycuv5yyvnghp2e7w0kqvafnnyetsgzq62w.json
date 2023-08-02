@@ -1,0 +1,9 @@
+{
+  "contractAddress": "juno17703kcxtsg37hryxnestejyyycuv5yyvnghp2e7w0kqvafnnyetsgzq62w",
+  "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/sunset.png",
+  "metadata": {
+    "name": "SUNSET",
+    "symbol": "SUNSET",
+    "decimals": 6
+  }
+}

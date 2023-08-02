@@ -1,0 +1,9 @@
+{
+  "contractAddress": "juno1ytymtllllsp3hfmndvcp802p2xmy5s8m59ufel8xv9ahyxyfs4hs4kd4je",
+  "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/osdoge.png",
+  "metadata": {
+    "name": "OsDoge",
+    "symbol": "OSDOGE",
+    "decimals": 6
+  }
+}
