@@ -4,6 +4,7 @@
   "scripts": {
     "clean": "rm -rf node_modules; rm -rf build",
     "dev": "nodemon",
+    "crawl": "ts-node src/dev/crawling.ts",
     "build": "tsc",
     "build:clean": "yarn clean && yarn install --immutable && yarn build",
     "bundle": "rm -rf bundle && esbuild ./src/index.ts --bundle --minify --sourcemap --platform=node --target=node18 --outdir=bundle/server && cp -r ./cosmos ./bundle",
