@@ -1,6 +1,6 @@
 {
   "contractAddress": "juno1zqrj3ta4u7ylv0wqzd8t8q3jrr9rdmn43zuzp9zemeunecnhy8fss778g7",
-  "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/pepe.png",
+  "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/juno/pepe.png",
   "metadata": {
     "name": "Osmo Pepe",
     "symbol": "PEPE",

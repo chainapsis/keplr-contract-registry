@@ -1,6 +1,6 @@
 {
   "contractAddress": "juno1dd0k0um5rqncfueza62w9sentdfh3ec4nw4aq4lk5hkjl63vljqscth9gv",
-  "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/sejuno.svg",
+  "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/juno/sejuno.svg",
   "metadata": {
     "name": "seJUNO",
     "symbol": "SEJUNO",

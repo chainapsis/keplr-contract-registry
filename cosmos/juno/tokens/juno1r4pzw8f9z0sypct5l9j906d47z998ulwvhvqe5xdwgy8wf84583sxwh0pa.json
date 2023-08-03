@@ -1,6 +1,6 @@
 {
   "contractAddress": "juno1r4pzw8f9z0sypct5l9j906d47z998ulwvhvqe5xdwgy8wf84583sxwh0pa",
-  "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/rac.png",
+  "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/juno/rac.png",
   "metadata": {
     "name": "RACCON",
     "symbol": "RAC",

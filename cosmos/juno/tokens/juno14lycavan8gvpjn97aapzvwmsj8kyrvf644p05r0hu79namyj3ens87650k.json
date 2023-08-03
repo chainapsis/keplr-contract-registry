@@ -1,6 +1,6 @@
 {
   "contractAddress": "juno14lycavan8gvpjn97aapzvwmsj8kyrvf644p05r0hu79namyj3ens87650k",
-  "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/sgnl.png",
+  "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/juno/sgnl.png",
   "metadata": {
     "name": "Signal",
     "symbol": "SGNL",

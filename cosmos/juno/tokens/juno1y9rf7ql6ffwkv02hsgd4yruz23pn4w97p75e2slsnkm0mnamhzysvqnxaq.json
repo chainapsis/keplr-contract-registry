@@ -1,6 +1,6 @@
 {
   "contractAddress": "juno1y9rf7ql6ffwkv02hsgd4yruz23pn4w97p75e2slsnkm0mnamhzysvqnxaq",
-  "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/block.svg",
+  "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/juno/block.svg",
   "metadata": {
     "name": "BLOCK",
     "symbol": "BLOCK",

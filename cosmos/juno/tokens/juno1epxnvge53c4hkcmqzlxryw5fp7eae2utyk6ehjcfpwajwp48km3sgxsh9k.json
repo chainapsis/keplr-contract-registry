@@ -1,6 +1,6 @@
 {
   "contractAddress": "juno1epxnvge53c4hkcmqzlxryw5fp7eae2utyk6ehjcfpwajwp48km3sgxsh9k",
-  "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/pepec.png",
+  "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/juno/pepec.png",
   "metadata": {
     "name": "PEPE on Cosmos",
     "symbol": "PEPE",
