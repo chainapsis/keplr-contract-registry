@@ -45,8 +45,8 @@ Please note that you need to comply with our requirements when filling out the f
 - `imageUrl`: Enter the link of the image you added.
 - `metadata`
     -  `name`: Name of the registered CW token.
-    -  `name`: Symbol of the registered CW token.
-    -  `name`: Decimals of the registered CW token.
+    -  `symbol`: Symbol of the registered CW token.
+    -  `decimals`: Decimals of the registered CW token.
 
 ## NOTE:
 - Please double-check if the app information file is in JSON format.
