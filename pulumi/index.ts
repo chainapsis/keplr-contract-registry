@@ -44,6 +44,12 @@ const functionUrl = new aws.lambda.FunctionUrl(
   {
     functionName: lambda.name,
     authorizationType: "NONE",
+    cors: {
+      allowHeaders: ["*"],
+      allowMethods: ["GET"],
+      allowOrigins: ["*"],
+      maxAge: 3600,
+    },
   }
 );
 
