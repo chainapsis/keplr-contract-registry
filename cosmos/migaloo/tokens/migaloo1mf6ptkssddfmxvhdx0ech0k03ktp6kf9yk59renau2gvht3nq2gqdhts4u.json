@@ -1,0 +1,9 @@
+{
+    "contractAddress": "migaloo1mf6ptkssddfmxvhdx0ech0k03ktp6kf9yk59renau2gvht3nq2gqdhts4u",
+    "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/migaloo/bwhale.svg",
+    "metadata": {
+        "name": "boneWHALE",
+        "symbol": "bWHALE",
+        "decimals": 6
+    }
+}
