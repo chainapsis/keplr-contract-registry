@@ -1,0 +1,10 @@
+{
+    "contractAddress": "archway1fwurjg7ah4v7hhs6xsc3wutqpvmahrfhns285s0lt34tgfdhplxq6m8xg5",
+    "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/archway/amparch.svg",
+    "metadata": {
+      "name": "Eris Amplified ARCH",
+      "symbol": "ampARCH",
+      "decimals": 18
+    }
+  }
+  

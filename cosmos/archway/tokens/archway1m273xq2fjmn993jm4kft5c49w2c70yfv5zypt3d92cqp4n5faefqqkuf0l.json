@@ -1,0 +1,10 @@
+{
+    "contractAddress": "archway1m273xq2fjmn993jm4kft5c49w2c70yfv5zypt3d92cqp4n5faefqqkuf0l",
+    "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/archway/xatom.svg",
+    "metadata": {
+      "name": "xATOM",
+      "symbol": "xATOM",
+      "decimals": 6
+    }
+  }
+  

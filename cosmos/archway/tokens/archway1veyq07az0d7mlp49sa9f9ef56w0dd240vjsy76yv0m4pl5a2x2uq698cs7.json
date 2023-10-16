@@ -1,0 +1,10 @@
+{
+    "contractAddress": "archway1veyq07az0d7mlp49sa9f9ef56w0dd240vjsy76yv0m4pl5a2x2uq698cs7",
+    "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/archway/xdec.svg",
+    "metadata": {
+      "name": "xDEC",
+      "symbol": "xDEC",
+      "decimals": 6
+    }
+  }
+  

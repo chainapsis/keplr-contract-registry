@@ -1,0 +1,10 @@
+{
+    "contractAddress": "archway1t2llqsvwwunf98v692nqd5juudcmmlu3zk55utx7xtfvznel030saclvq6",
+    "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/archway/sarch.svg",
+    "metadata": {
+      "name": "Liquid Finance Staked ARCH",
+      "symbol": "sARCH",
+      "decimals": 18
+    }
+  }
+  
