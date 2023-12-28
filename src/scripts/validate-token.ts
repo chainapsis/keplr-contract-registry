@@ -67,6 +67,8 @@ import { sortedJsonByKeyStringify } from "@keplr-wallet/common";
             )}), contract: ${validated.value.contractAddress}, chain: ${chain})`
           );
         }
+      } else {
+        throw new Error(`Invalid path: ${path}`);
       }
     }
   } catch (error) {
