@@ -1,0 +1,5 @@
+{
+  "chainId": "archway-1",
+  "rest": "https://api.mainnet.archway.io",
+  "bech32PrefixAccAddr": "archway"
+}

@@ -1,0 +1,10 @@
+{
+    "contractAddress": "archway1cutfh7m87cyq5qgqqw49f289qha7vhsg6wtr6rl5fvm28ulnl9ssg0vk0n",
+    "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/archway/xarch.svg",
+    "metadata": {
+      "name": "xARCH",
+      "symbol": "xARCH",
+      "decimals": 18
+    }
+  }
+  
