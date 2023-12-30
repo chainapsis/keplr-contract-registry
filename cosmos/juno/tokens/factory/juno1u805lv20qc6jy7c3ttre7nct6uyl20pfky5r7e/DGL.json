@@ -1,0 +1,9 @@
+{
+  "contractAddress": "factory/juno1u805lv20qc6jy7c3ttre7nct6uyl20pfky5r7e/DGL",
+  "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/juno/dgl.png",
+  "metadata": {
+    "name": "Licorice",
+    "symbol": "DGL",
+    "decimals": 6
+  }
+}
