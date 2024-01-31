@@ -1,0 +1,9 @@
+{
+  "contractAddress": "inj18luqttqyckgpddndh8hvaq25d5nfwjc78m56lc",
+  "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/injective/hINJ.png",
+  "metadata": {
+    "name": "Hydro Wrapped INJ",
+    "symbol": "hINJ",
+    "decimals": 18
+  }
+}
