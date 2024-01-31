@@ -1,0 +1,5 @@
+{
+  "chainId": "injective-1",
+  "rest": "https://sentry.lcd.injective.network",
+  "bech32PrefixAccAddr": "inj"
+}
