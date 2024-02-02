@@ -1,0 +1,9 @@
+{
+  "contractAddress": "cosmos1phlp8z5nnyvzxvkggqht2nthrku4fk85xk9c3v",
+  "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/cifer/cif.svg",
+  "metadata": {
+    "name": "cifer",
+    "symbol": "cif",
+    "decimals": 6
+  }
+}

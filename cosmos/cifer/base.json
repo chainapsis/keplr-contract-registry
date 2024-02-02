@@ -1,0 +1,5 @@
+{
+  "chainId": "cifer",
+  "rest": "https://lcd-juno.keplr.app",
+  "bech32PrefixAccAddr": "cifer"
+}
