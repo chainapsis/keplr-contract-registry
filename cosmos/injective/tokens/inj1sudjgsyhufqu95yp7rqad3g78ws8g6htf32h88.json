@@ -1,0 +1,9 @@
+{
+  "contractAddress": "inj1sudjgsyhufqu95yp7rqad3g78ws8g6htf32h88",
+  "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/injective/ninpo.png",
+  "metadata": {
+    "name": "NINPO",
+    "symbol": "NINPO",
+    "decimals": 6
+  }
+}
