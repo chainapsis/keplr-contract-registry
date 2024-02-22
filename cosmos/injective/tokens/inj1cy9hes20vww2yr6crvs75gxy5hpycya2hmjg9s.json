@@ -1,0 +1,9 @@
+{
+  "contractAddress": "inj1cy9hes20vww2yr6crvs75gxy5hpycya2hmjg9s",
+  "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/injective/nUSDT.png",
+  "metadata": {
+    "name": "Neptune Receipt USDT",
+    "symbol": "nUSDT",
+    "decimals": 7
+  }
+}
