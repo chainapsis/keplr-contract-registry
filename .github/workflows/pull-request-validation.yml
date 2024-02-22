@@ -1,0 +1,39 @@
+name: Pull Request Validation
+on:
+  pull_request:
+    types: [opened, synchronize]
+    branches: [main]
+
+jobs:
+  validation:
+    name: Pull Request Contract Validation
+    runs-on: ubuntu-20.04
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+
+      - name: Setup nodejs
+        uses: actions/setup-node@v3
+        with:
+          node-version: "18"
+
+      - run: npm install --global yarn
+      - run: yarn install --frozen-lockfile
+
+      - name: Get changed files
+        id: changed-files
+        uses: tj-actions/changed-files@v34
+        with:
+          files: |
+            cosmos/**
+
+      - name: Validate changed files
+        run: |
+          for file in ${{ steps.changed-files.outputs.all_changed_files }}; do
+            if [[ $file == *".json"* && $file != "base.json" ]]; then
+              yarn validate:token $file
+            fi
+          done
