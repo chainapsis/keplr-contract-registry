@@ -33,7 +33,7 @@ jobs:
       - name: Validate changed files
         run: |
           for file in ${{ steps.changed-files.outputs.all_changed_files }}; do
-            if [[ $file == *".json"* && $file != "base.json" ]]; then
+            if [[ $file == *".json"* && $file != *"base.json"* ]]; then
               yarn validate:token $file
             fi
           done
