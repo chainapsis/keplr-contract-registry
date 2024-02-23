@@ -1,0 +1,5 @@
+{
+  "chainId": "phoenix-1",
+  "rest": "https://lcd-phoenix.keplr.app",
+  "bech32PrefixAccAddr": "terra"
+}
