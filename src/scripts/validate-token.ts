@@ -84,7 +84,7 @@ import { sortedJsonByKeyStringify } from "@keplr-wallet/common";
             const width = dimensions.width ?? 0;
             const height = dimensions.height ?? 0;
 
-            if (width > 512 || height > 512) {
+            if (width > 513 || height > 513) {
               throw new Error(
                 `Reduce image size to 512x512 or smaller (expected: 512x512, actual: ${width}x${height})`
               );
