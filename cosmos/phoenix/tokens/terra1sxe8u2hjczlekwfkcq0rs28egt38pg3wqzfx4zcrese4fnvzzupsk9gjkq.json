@@ -1,0 +1,9 @@
+{
+  "contractAddress": "terra1sxe8u2hjczlekwfkcq0rs28egt38pg3wqzfx4zcrese4fnvzzupsk9gjkq",
+  "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/phoenix/bmos.png",
+  "metadata": {
+    "name": "Bitmos",
+    "symbol": "BMOS",
+    "decimals": 6
+  }
+}
