@@ -1,0 +1,9 @@
+{
+    "contractAddress": "terra1uewxz67jhhhs2tj97pfm2egtk7zqxuhenm4y4m",
+    "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/terra_classic/base.png",
+    "metadata": {
+        "name": "LBUNProject BASE Token",
+        "symbol": "BASE",
+        "decimals": 6
+    }
+}
