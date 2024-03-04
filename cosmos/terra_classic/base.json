@@ -1,5 +1,5 @@
 {
   "chainId": "columbus-5",
   "rest": "https://lcd-columbus.keplr.app",
-  "bech32PrefixAccAddr": "terra-classic"
+  "bech32PrefixAccAddr": "terra"
 }
