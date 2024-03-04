@@ -1,0 +1,9 @@
+{
+  "contractAddress": "peggy0xb2617246d0c6c0087f18703d576831899ca94f01",
+  "imageUrl": "https://github.com/ehsanZIG/keplr-contract-registry/blob/main/images/injective/zignaly-icon-gradient.png",
+  "metadata": {
+    "name": "ZigCoin",
+    "symbol": "ZIG",
+    "decimals": 18
+  }
+}
