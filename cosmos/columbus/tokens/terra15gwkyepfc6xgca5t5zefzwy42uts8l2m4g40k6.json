@@ -3,7 +3,7 @@
     "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/columbus/mir.png",
     "coinGeckoId": "mirror-protocol",
     "metadata": {
-        "name": "Mirror MIR Token",
+        "name": "Mirror",
         "symbol": "MIR",
         "decimals": 6
     }
