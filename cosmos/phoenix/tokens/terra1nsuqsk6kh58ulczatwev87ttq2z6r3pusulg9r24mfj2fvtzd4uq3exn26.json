@@ -1,0 +1,10 @@
+{
+  "contractAddress": "terra1nsuqsk6kh58ulczatwev87ttq2z6r3pusulg9r24mfj2fvtzd4uq3exn26",
+  "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/phoenix/astro.png",
+  "coinGeckoId": "astroport-fi",
+  "metadata": {
+    "name": "Astroport",
+    "symbol": "ASTRO",
+    "decimals": 6
+  }
+}
