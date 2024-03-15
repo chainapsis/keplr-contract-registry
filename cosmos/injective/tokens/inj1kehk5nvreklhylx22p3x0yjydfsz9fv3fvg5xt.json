@@ -1,6 +1,6 @@
 {
   "contractAddress": "inj1kehk5nvreklhylx22p3x0yjydfsz9fv3fvg5xt",
-  "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/injective/nweth.png",
+  "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/injective/nWETH.png",
   "metadata": {
     "name": "Neptune Receipt WETH",
     "symbol": "nWETH",
