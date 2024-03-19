@@ -2,7 +2,7 @@
   "contractAddress": "inj193340xxv49hkug7r65xzc0l40tze44pee4fj94",
   "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/injective/bskt.png",
   "metadata": {
-    "name": "Basket",
+    "name": "BSKT (Wormhole)",
     "symbol": "BSKT",
     "decimals": 5
   }
