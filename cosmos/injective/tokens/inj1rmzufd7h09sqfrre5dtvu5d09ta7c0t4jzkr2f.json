@@ -1,0 +1,9 @@
+{
+  "contractAddress": "inj1rmzufd7h09sqfrre5dtvu5d09ta7c0t4jzkr2f",
+  "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/injective/nINJ.png",
+  "metadata": {
+    "name": "Neptune Receipt INJ",
+    "symbol": "nINJ",
+    "decimals": 18
+  }
+}
