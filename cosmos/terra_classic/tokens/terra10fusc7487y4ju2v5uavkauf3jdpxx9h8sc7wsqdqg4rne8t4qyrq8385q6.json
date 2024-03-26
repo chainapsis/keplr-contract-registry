@@ -1,0 +1,9 @@
+{
+  "contractAddress": "terra10fusc7487y4ju2v5uavkauf3jdpxx9h8sc7wsqdqg4rne8t4qyrq8385q6",
+  "imageUrl": "https://i.ibb.co/KsxHYW2/cw-LUNC-128.png",
+  "metadata": {
+    "name": "LUNC (CW20)",
+    "symbol": "cwLUNC",
+    "decimals": 6
+  }
+ }
