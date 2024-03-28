@@ -1,6 +1,6 @@
 {
     "contractAddress": "terra12nj5wddk9rr7nzrq5zxgr5wnas2alfrneau6svvcnpak4xa0n3qs2pjq7c",
-    "imageUrl": "https://i.ibb.co/k8ZQgBP/pilot.png",
+    "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/020d747f32130bca706ef79e6dd84e2adf1957f7/images/columbus/pilot.png",
     "metadata": {
         "name": "PILOT",
         "symbol": "PILOT",
