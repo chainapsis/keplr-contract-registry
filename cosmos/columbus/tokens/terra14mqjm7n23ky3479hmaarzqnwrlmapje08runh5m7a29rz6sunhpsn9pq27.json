@@ -3,7 +3,7 @@
     "imageUrl": "https://raw.githubusercontent.com/cherifabilqis/keplr-contract-registry/main/images/columbus/SpaceX.png",
     "metadata": {
         "name": "SPACEX",
-        "symbol": "SPACE",
+        "symbol": "SPACEX",
         "decimals": 6
     }
 }
