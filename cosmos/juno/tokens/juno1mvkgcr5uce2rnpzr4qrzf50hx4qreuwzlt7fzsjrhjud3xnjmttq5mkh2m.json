@@ -3,7 +3,7 @@
   "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/juno/bJUNO.png",
   "metadata": {
     "name": "bJuno Token",
-    "symbol": "bJUNO",
+    "symbol": "bJuno",
     "decimals": 6
   }
 }
