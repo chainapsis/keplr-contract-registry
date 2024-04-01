@@ -1,0 +1,5 @@
+{
+  "chainId": "chihuahua-1",
+  "rest": "https://api.chihuahua.wtf",
+  "bech32PrefixAccAddr": "chihuahua"
+}
