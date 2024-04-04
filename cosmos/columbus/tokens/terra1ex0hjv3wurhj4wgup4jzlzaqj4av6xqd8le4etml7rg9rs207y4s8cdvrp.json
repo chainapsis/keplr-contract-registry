@@ -1,0 +1,10 @@
+{
+    "contractAddress": "terra1ex0hjv3wurhj4wgup4jzlzaqj4av6xqd8le4etml7rg9rs207y4s8cdvrp",
+    "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/columbus/terraport.png",
+    "coinGeckoId": "terraport",
+    "metadata": {
+      "name": "Terraport",
+      "symbol": "TERRA",
+      "decimals": 6
+    }
+  }
