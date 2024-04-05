@@ -1,0 +1,10 @@
+{
+  "contractAddress": "inj169ky6ydket0nax3hft5d2kegj5ahp69vf6cwm2",
+  "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/injective/mim.png",
+  "metadata": {
+    "name": "Magic Internet Money",
+    "symbol": "MIM",
+    "decimals": 6
+  }
+}
+

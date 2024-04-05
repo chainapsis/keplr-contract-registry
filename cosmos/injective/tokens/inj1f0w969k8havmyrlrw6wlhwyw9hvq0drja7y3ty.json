@@ -1,0 +1,9 @@
+{
+  "contractAddress": "inj1f0w969k8havmyrlrw6wlhwyw9hvq0drja7y3ty",
+  "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/injective/orb.png",
+  "metadata": {
+    "name": "Orbitra Dex Token",
+    "symbol": "ORB",
+    "decimals": 6
+  }
+}
