@@ -1,0 +1,9 @@
+{
+  "contractAddress": "juno1mvkgcr5uce2rnpzr4qrzf50hx4qreuwzlt7fzsjrhjud3xnjmttq5mkh2m",
+  "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/juno/bJUNO.png",
+  "metadata": {
+    "name": "bJuno Token",
+    "symbol": "bJuno",
+    "decimals": 6
+  }
+}

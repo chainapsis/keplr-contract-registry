@@ -1,0 +1,9 @@
+{
+  "contractAddress": "terra1x62mjnme4y0rdnag3r8rfgjuutsqlkkyuh4ndgex0wl3wue25uksau39q8",
+  "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/phoenix/xastro.png",
+  "metadata": {
+    "name": "Staked Astroport",
+    "symbol": "xASTRO",
+    "decimals": 6
+  }
+}

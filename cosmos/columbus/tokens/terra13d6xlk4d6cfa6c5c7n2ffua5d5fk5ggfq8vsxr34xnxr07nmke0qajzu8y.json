@@ -1,0 +1,9 @@
+{
+    "contractAddress": "terra13d6xlk4d6cfa6c5c7n2ffua5d5fk5ggfq8vsxr34xnxr07nmke0qajzu8y",
+    "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/columbus/ELON.png",
+    "metadata": {
+        "name": "ELON",
+        "symbol": "ELON",
+        "decimals": 6
+    }
+}

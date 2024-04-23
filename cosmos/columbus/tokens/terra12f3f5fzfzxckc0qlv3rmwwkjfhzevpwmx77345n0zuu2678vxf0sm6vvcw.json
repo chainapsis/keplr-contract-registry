@@ -1,0 +1,9 @@
+{
+    "contractAddress": "terra12f3f5fzfzxckc0qlv3rmwwkjfhzevpwmx77345n0zuu2678vxf0sm6vvcw",
+    "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/columbus/GRDX.png",
+    "metadata": {
+        "name": "GARUDAX TOKEN",
+        "symbol": "GRDX",
+        "decimals": 6
+    }
+}

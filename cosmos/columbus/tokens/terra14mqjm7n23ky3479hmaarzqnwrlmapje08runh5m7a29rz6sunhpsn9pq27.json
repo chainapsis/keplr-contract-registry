@@ -1,0 +1,9 @@
+{
+    "contractAddress": "terra14mqjm7n23ky3479hmaarzqnwrlmapje08runh5m7a29rz6sunhpsn9pq27",
+    "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/columbus/SPACEX.png",
+    "metadata": {
+        "name": "SPACEX",
+        "symbol": "SPACEX",
+        "decimals": 6
+    }
+}

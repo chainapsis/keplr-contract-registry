@@ -49,3 +49,19 @@ export const getChainBaseMap = (
 
   return map;
 };
+
+export const validateImageUrl = (
+  chainIdentifier: string,
+  url: string
+): string => {
+  const baseURL = `https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/${chainIdentifier}/`;
+
+  if (!url.startsWith(baseURL)) {
+    throw new Error(`Invalid image url: ${url}`);
+  }
+  if (!(url.endsWith(".png") || url.endsWith(".svg"))) {
+    throw new Error(`Image formats can only be PNG and SVG.`);
+  }
+
+  return url.replace(baseURL, "");
+};

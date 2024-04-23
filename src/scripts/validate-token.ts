@@ -1,8 +1,9 @@
 import FS from "fs";
+import sizeOf from "image-size";
 import { CW20TokenScheme } from "../scheme";
-import { getChainBaseMap } from "../utils";
+import { getChainBaseMap, validateImageUrl } from "../utils";
 import Path from "path";
-import { Bech32Address } from "@keplr-wallet/cosmos";
+import { Bech32Address, ChainIdHelper } from "@keplr-wallet/cosmos";
 import { fetchTokenMetadata } from "../query";
 import { sortedJsonByKeyStringify } from "@keplr-wallet/common";
 
@@ -66,6 +67,29 @@ import { sortedJsonByKeyStringify } from "@keplr-wallet/common";
               validated.value.metadata
             )}), contract: ${validated.value.contractAddress}, chain: ${chain})`
           );
+        }
+
+        if (validated.value.imageUrl) {
+          const chainIdentifier = ChainIdHelper.parse(base.chainId).identifier;
+          const tokenImageUrl = validateImageUrl(
+            chainIdentifier,
+            validated.value.imageUrl
+          );
+
+          const dimensions = sizeOf(
+            `images/${chainIdentifier}/${tokenImageUrl}`
+          );
+
+          if (dimensions.type === "png") {
+            const width = dimensions.width ?? 0;
+            const height = dimensions.height ?? 0;
+
+            if (width > 513 || height > 513) {
+              throw new Error(
+                `Reduce image size to 512x512 or smaller (expected: 512x512, actual: ${width}x${height})`
+              );
+            }
+          }
         }
       } else {
         throw new Error(`Invalid path: ${path}`);
