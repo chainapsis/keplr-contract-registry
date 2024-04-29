@@ -1,0 +1,9 @@
+{
+    "contractAddress": "terra1wez9puj43v4s25vrex7cv3ut3w75w4h6j5e537sujyuxj0r5ne2qp9uwl9",
+    "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/columbus/FROG.png",
+    "metadata": {
+        "name": "Frogztrik NFT Token",
+        "symbol": "FROG",
+        "decimals": 6
+    }
+}
