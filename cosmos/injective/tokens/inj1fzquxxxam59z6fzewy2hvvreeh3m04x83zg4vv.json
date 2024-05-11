@@ -1,0 +1,9 @@
+{
+  "contractAddress": "inj1fzquxxxam59z6fzewy2hvvreeh3m04x83zg4vv",
+  "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/injective/nTIA.png",
+  "metadata": {
+    "name": "Neptune Receipt TIA",
+    "symbol": "nTIA",
+    "decimals": 6
+  }
+}
