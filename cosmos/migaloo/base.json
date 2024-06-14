@@ -1,0 +1,5 @@
+{
+  "chainId": "migaloo-1",
+  "rest": "https://rpc-whitewhale-ia.cosmosia.notional.ventures/",
+  "bech32PrefixAccAddr": "migaloo"
+}
