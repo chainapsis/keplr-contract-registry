@@ -2,7 +2,7 @@
   "contractAddress": "terra1qj5hs3e86qn4vm9dvtgtlkdp550r0rayk9wpay44mfw3gn3tr8nq5jw3dg",
   "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/phoenix/Escudos.png",
   "metadata": {
-    "name": "Escudo",
+    "name": "escudo",
     "symbol": "Escudos",
     "decimals": 6
   }
