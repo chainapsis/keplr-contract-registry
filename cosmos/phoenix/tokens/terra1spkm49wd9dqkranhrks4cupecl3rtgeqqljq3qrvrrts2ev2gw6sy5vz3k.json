@@ -2,7 +2,7 @@
   "contractAddress": "terra1spkm49wd9dqkranhrks4cupecl3rtgeqqljq3qrvrrts2ev2gw6sy5vz3k",
   "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/phoenix/Dinheiros.png",
   "metadata": {
-    "name": "Dinheiro",
+    "name": "dinheiro",
     "symbol": "Dinheiros",
     "decimals": 0
   }
