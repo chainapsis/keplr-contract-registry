@@ -2,7 +2,7 @@
   "contractAddress": "terra1sdglum2dt4f3fmq7jrt2phf2tegmnudc7qqqqujkpqcm9ujuxxkqakv5u8",
   "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/phoenix/Reis.png",
   "metadata": {
-    "name": "Real",
+    "name": "real",
     "symbol": "Reis",
     "decimals": 6
   }
