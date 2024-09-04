@@ -1,0 +1,9 @@
+{
+  "contractAddress": "terra1xfkkgwxychgrnq0vcp82u32mecrzj8s64s03cxtmf46k6j2n2wssc7rzjf",
+  "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/phoenix/dmt.png",
+  "metadata": {
+    "name": "dmt",
+    "symbol": "DMT",
+    "decimals": 6
+  }
+}
