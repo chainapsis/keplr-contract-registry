@@ -1,0 +1,9 @@
+{
+    "contractAddress": "archway16kxu278xtwa9ql20yhgk9smk2k6ke74hsxeesf36c9dhxqc5zyksh8ykwu",
+    "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/archway/tokn.png",
+    "metadata": {
+      "name": "TOKN",
+      "symbol": "TOKN",
+      "decimals": 18
+    }
+  }
