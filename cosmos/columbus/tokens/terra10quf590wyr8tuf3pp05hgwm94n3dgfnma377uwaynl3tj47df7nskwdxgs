@@ -1,0 +1,9 @@
+{
+    "contractAddress": "terra10quf590wyr8tuf3pp05hgwm94n3dgfnma377uwaynl3tj47df7nskwdxgs",
+    "imageUrl": "https://i.ibb.co/Cz2mHQ4/catnip-token.png",
+    "metadata": {
+        "name": "Catnip",
+        "symbol": "CNIP",
+        "decimals": 6
+    }
+}
