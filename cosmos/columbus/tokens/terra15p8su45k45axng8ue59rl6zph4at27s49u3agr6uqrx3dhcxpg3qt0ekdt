@@ -1,6 +1,6 @@
 {
   "contractAddress": "terra15p8su45k45axng8ue59rl6zph4at27s49u3agr6uqrx3dhcxpg3qt0ekdt",
-  "imageUrl": "",
+  "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/b168f4287f14734bc7754d5785eda5d4fd863fdc/images/columbus/Cookie.jpg",
   "metadata": {
     "name": "Cookie Monster",
     "symbol": "COOKIE",
