@@ -1,0 +1,9 @@
+{
+    "contractAddress": "terra1nuwdr5zaul2gnq88xapq8ythmaw4092kt8lxsl6jd36h47u8vpcqnrmdcm",
+    "imageUrl": "images/columbus/LNC.jpg",
+    "metadata": {
+        "name": "LUNC CANDY",
+        "symbol": "LNC",
+        "decimals": 6
+    }
+}
