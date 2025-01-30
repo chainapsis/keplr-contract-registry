@@ -1,0 +1,9 @@
+{
+    "contractAddress": "terra10fusc7487y4ju2v5uavkauf3jdpxx9h8sc7wsqdqg4rne8t4qyrq8385q6",
+    "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/columbus/cwlunc.png",
+    "metadata": {
+        "name": "cwLUNC Token",
+        "symbol": "cwLUNC",
+        "decimals": 6
+    }
+}
