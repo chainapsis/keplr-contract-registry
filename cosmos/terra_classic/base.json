@@ -1,0 +1,5 @@
+{
+  "chainId": "columbus-5",
+  "rest": "https://terra-classic-lcd.publicnode.com",
+  "bech32PrefixAccAddr": "terra"
+}
