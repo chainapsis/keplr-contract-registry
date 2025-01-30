@@ -11,6 +11,7 @@
     "lint-test": "eslint \"src/**/*\" && prettier --check \"src/**/*\"",
     "lint-fix": "eslint --fix \"src/**/*\" && prettier --write \"src/**/*\"",
     "validate:token": "ts-node src/scripts/validate-token.ts",
+    "validate:image": "ts-node src/scripts/validate-image.ts",
     "pre-commit": "lint-staged"
   },
   "pre-commit": [
@@ -52,6 +53,7 @@
     "@keplr-wallet/cosmos": "^0.12.12",
     "axios": "^1.4.0",
     "curve25519-js": "^0.0.4",
+    "image-size": "^1.1.1",
     "joi": "^17.9.2",
     "koa": "^2.14.2",
     "koa-router": "^12.0.0",

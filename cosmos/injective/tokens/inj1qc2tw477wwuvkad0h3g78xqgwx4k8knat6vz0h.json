@@ -1,0 +1,9 @@
+{
+  "contractAddress": "inj1qc2tw477wwuvkad0h3g78xqgwx4k8knat6vz0h",
+  "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/injective/xHDRO.png",
+  "metadata": {
+    "name": "xHDRO",
+    "symbol": "xHDRO",
+    "decimals": 6
+  }
+}
