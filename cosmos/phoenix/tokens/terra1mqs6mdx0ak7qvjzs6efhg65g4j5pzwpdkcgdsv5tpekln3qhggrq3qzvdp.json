@@ -1,0 +1,9 @@
+{
+  "contractAddress": "terra1mqs6mdx0ak7qvjzs6efhg65g4j5pzwpdkcgdsv5tpekln3qhggrq3qzvdp",
+  "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/phoenix/plasma.png",
+  "metadata": {
+    "name": "plasma",
+    "symbol": "PLASMA",
+    "decimals": 6
+  }
+}

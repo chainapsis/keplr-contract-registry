@@ -1,0 +1,9 @@
+{
+  "contractAddress": "terra1en42e2vsvtdsvrcqg5s5e5e4djejjaed6fxmvtpweg3tu33h6k5qkg9c40",
+  "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/phoenix/almagem.png",
+  "metadata": {
+    "name": "almagem",
+    "symbol": "AMG",
+    "decimals": 6
+  }
+}
