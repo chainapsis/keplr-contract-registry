@@ -8,7 +8,16 @@ Once approved, Keplr Extension will show CW20 tokens on the Add Token page, with
 Here’s an overview of the structure of the directory. Please provide the information and files complying with the requirements.
 ```
 .
-├── cosmos                       
+{
+  "contractAddress": "juno1epxnvge53c4hkcmqzlxryw5fp7eae2utyk6ehjcfpwajwp48km3sgxsh9k",
+  "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/juno/pepec.png",
+  "metadata": {
+    "name": "PEPE on Cosmos",
+    "symbol": "PEPE",
+    "decimals": 6
+  }
+}
+├── cosmos                 
 │     ├── juno                                    # Chain Identifier Name
 │     │     ├── base.json                         # Information about the chain
 │     │     └── tokens
