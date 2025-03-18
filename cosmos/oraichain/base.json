@@ -1,0 +1,5 @@
+{
+    "chainId": "Oraichain",
+    "rest": "https://lcd.orai.io/",
+    "bech32PrefixAccAddr": "orai"
+}
