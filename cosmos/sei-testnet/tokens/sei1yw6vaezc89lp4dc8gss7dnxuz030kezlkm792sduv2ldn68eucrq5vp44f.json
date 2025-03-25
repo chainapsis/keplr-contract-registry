@@ -1,0 +1,9 @@
+{
+  "contractAddress": "sei1yw6vaezc89lp4dc8gss7dnxuz030kezlkm792sduv2ldn68eucrq5vp44f",
+  "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/sei/ATOM.png",
+  "metadata": {
+    "name": "Test ATOM",
+    "symbol": "ATOM",
+    "decimals": 6
+  }
+}

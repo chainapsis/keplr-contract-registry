@@ -1,0 +1,9 @@
+{
+  "contractAddress": "sei1r5sd9y5k5t0zqk28umuzx8e4x2yp8l9de5a44ptrncv20qvwj0yq96496d",
+  "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/sei/USDT.png",
+  "metadata": {
+    "name": "Test USDT",
+    "symbol": "USDT",
+    "decimals": 6
+  }
+}
