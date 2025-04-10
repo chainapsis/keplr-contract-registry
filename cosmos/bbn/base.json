@@ -1,0 +1,5 @@
+{
+  "chainId": "bbn-1",
+  "rest": "https://lcd-babylon.keplr.app",
+  "bech32PrefixAccAddr": "bbn"
+}
