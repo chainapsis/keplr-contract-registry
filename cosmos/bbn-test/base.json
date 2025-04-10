@@ -1,0 +1,5 @@
+{
+  "chainId": "bbn-test-5",
+  "rest": "https://babylon-testnet-api.nodes.guru",
+  "bech32PrefixAccAddr": "bbn"
+}
