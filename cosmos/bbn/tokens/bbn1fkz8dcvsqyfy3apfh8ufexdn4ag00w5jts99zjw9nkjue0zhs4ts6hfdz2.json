@@ -1,0 +1,9 @@
+{
+  "contractAddress": "bbn1fkz8dcvsqyfy3apfh8ufexdn4ag00w5jts99zjw9nkjue0zhs4ts6hfdz2",
+  "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/bbn/uniBTC.png",
+  "metadata": {
+    "name": "uniBTC",
+    "symbol": "uniBTC",
+    "decimals": 8
+  }
+}
