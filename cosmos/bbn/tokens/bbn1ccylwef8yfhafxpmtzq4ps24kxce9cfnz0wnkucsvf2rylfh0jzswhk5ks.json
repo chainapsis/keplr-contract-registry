@@ -1,6 +1,6 @@
 {
   "contractAddress": "bbn1ccylwef8yfhafxpmtzq4ps24kxce9cfnz0wnkucsvf2rylfh0jzswhk5ks",
-  "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/bbn-1/stBTC.png",
+  "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/bbn/stBTC.png",
   "metadata": {
     "name": "Lorenzo stBTC",
     "symbol": "stBTC",

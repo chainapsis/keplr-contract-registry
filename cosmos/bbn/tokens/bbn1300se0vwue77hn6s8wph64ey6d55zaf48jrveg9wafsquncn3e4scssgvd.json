@@ -1,6 +1,6 @@
 {
   "contractAddress": "bbn1300se0vwue77hn6s8wph64ey6d55zaf48jrveg9wafsquncn3e4scssgvd",
-  "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/bbn-1/WETH.png",
+  "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/bbn/WETH.png",
   "metadata": {
     "name": "Wrapped Ether",
     "symbol": "WETH",
