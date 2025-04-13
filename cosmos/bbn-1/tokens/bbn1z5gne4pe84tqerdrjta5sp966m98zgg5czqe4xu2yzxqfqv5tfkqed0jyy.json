@@ -1,0 +1,9 @@
+{
+  "contractAddress": "bbn1z5gne4pe84tqerdrjta5sp966m98zgg5czqe4xu2yzxqfqv5tfkqed0jyy",
+  "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/bbn-1/LBTC.png",
+  "metadata": {
+    "name": "Lombard Staked BTC",
+    "symbol": "LBTC",
+    "decimals": 8
+  }
+}
