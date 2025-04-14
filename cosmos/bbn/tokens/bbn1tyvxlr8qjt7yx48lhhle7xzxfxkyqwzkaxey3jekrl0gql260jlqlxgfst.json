@@ -1,0 +1,9 @@
+{
+  "contractAddress": "bbn1tyvxlr8qjt7yx48lhhle7xzxfxkyqwzkaxey3jekrl0gql260jlqlxgfst",
+  "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/bbn/SolvBTC.png",
+  "metadata": {
+    "name": "Solv BTC",
+    "symbol": "SolvBTC",
+    "decimals": 18
+  }
+}
