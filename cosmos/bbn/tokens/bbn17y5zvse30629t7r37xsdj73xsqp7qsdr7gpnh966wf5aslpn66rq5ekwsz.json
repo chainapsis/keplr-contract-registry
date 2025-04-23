@@ -1,0 +1,9 @@
+{
+  "contractAddress": "bbn17y5zvse30629t7r37xsdj73xsqp7qsdr7gpnh966wf5aslpn66rq5ekwsz",
+  "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/bbn/cbaby.png",
+  "metadata": {
+    "name": "Cube Baby",
+    "symbol": "cBABY",
+    "decimals": 6
+  }
+}
