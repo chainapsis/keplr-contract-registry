@@ -1,0 +1,9 @@
+{
+  "contractAddress": "bbn1rluxqjaqsczmdaxl4kr0qa42pp78zszlmdrt248hel59z3fh8y9qrh4dvq",
+  "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/bbn/LBTC.png",
+  "metadata": {
+    "name": "SatLayer LBTC Bridged",
+    "symbol": "satLBTC.e",
+    "decimals": 8
+  }
+}
