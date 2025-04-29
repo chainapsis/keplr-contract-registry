@@ -1,0 +1,10 @@
+{
+    "contractAddress": "bbn1j2nchmpuhkq0yj93g84txe33j5lhw2y7p3anhqjhvamqxsev6rmsneu85x",
+    "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/bbn/uniBTC.png",
+    "metadata": {
+      "name": "SatLayer uniBTC Bridged",
+      "symbol": "satUniBTC.e",
+      "decimals": 8
+    }
+  }
+  
