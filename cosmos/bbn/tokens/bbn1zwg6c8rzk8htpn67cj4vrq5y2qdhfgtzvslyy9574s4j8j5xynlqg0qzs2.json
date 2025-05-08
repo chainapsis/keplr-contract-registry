@@ -1,0 +1,9 @@
+{
+  "contractAddress": "bbn1zwg6c8rzk8htpn67cj4vrq5y2qdhfgtzvslyy9574s4j8j5xynlqg0qzs2",
+  "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/bbn/PumpBTC.png",
+  "metadata": {
+    "name": "SatLayer pumpBTC Bridged",
+    "symbol": "satPumpBTC.e",
+    "decimals": 8
+  }
+}
