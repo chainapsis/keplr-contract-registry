@@ -1,0 +1,9 @@
+{
+  "contractAddress": "bbn13vejhl4x0arsq7wajcmlu5hx3phmxdcrp3s2jvy65ucyt9kfkh7qr2laaa",
+  "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/bbn/FBTC.png",
+  "metadata": {
+    "name": "SatLayer FBTC Bridged",
+    "symbol": "satFBTC.e",
+    "decimals": 8
+  }
+}
