@@ -1,0 +1,9 @@
+{
+  "contractAddress": "orai1ty9dgugt0swra7k0nu2kdp35tf7q7d60jy29u9n6vt5lfff2jj0qs4p6r7",
+  "imageUrl": "https://honorais-datalake.s3.eu-north-1.amazonaws.com/cosmoway/honor_logo_v2.svg",
+  "metadata": {
+    "name": "HONOR",
+    "symbol": "HONOR",
+    "decimals": 6
+  }
+}
