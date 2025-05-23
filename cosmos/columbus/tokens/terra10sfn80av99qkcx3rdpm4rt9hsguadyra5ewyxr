@@ -1,0 +1,9 @@
+{
+    "contractAddress": "terra10sfn80av99qkcx3rdpm4rt9hsguadyra5ewyxr",
+    "imageUrl": "https://raw.githubusercontent.com/visux/logos/main/sonic32.png",
+    "metadata": {
+        "name": "Sonic(k) Token",
+        "symbol": "SON",
+        "decimals": 6
+    }
+}
