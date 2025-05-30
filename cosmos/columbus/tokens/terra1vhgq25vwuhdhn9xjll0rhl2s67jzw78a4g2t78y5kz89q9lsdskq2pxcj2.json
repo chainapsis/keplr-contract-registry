@@ -5,5 +5,7 @@
         "name": "Juris Protocol",
         "symbol": "JURIS",
         "decimals": 6
-    }
+  },
+  "coinGeckoId": "juris-protocol"
 }
+ 
