@@ -1,0 +1,9 @@
+{
+    "contractAddress": "terra1a8rmymsc58p9jg45p8ghy2ueqhmmhsxgd2tvuxma0pxa3g40tw8s0tjg82",
+    "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/columbus/mioffnew.png",
+    "metadata": {
+        "name": "MIOFF",
+        "symbol": "MIOFF",
+        "decimals": 6
+    }
+}
