@@ -1,0 +1,9 @@
+{
+    "contractAddress": "terra1nuwdr5zaul2gnq88xapq8ythmaw4092kt8lxsl6jd36h47u8vpcqnrmdcm",
+    "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/columbus/LNC.png",
+    "metadata": {
+        "name": "Lunc Candy ",
+        "symbol": "LNC",
+        "decimals": 6
+    }
+}
