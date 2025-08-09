@@ -1,0 +1,9 @@
+{
+  "contractAddress": "inj1c6lxety9hqn9q4khwqvjcfa24c2qeqvvfsg4fm",
+  "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/injective/pedro.png",
+  "metadata": {
+    "name": "Pedro",
+    "symbol": "Pedro",
+    "decimals": 18
+  }
+}
