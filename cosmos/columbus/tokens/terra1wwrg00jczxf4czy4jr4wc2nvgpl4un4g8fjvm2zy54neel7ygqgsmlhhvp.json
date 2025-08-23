@@ -1,0 +1,9 @@
+{
+    "contractAddress": "terra1wwrg00jczxf4czy4jr4wc2nvgpl4un4g8fjvm2zy54neel7ygqgsmlhhvp",
+    "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/columbus/lunctron.png",
+    "metadata": {
+        "name": "Lunctron",
+        "symbol": "LTRN",
+        "decimals": 6
+    }
+}
