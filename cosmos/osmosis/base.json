@@ -1,0 +1,5 @@
+{
+  "chainId": "osmosis-1",
+  "rest": ""https://lcd-osmosis.keplr.app",
+  "bech32PrefixAccAddr": "osmo"
+}
