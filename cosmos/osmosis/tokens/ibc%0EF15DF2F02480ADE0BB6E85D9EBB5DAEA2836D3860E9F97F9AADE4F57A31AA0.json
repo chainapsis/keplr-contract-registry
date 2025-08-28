@@ -1,0 +1,11 @@
+{
+    "contractAddress": "ibc/0EF15DF2F02480ADE0BB6E85D9EBB5DAEA2836D3860E9F97F9AADE4F57A31AA0",
+    "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/osmosis/lunc.png",
+    "metadata": {
+        "name": "Luna Classic",
+        "symbol": "LUNC",
+        "decimals": 6
+  },
+  "coinGeckoId": "terra-luna"
+}
+ 
