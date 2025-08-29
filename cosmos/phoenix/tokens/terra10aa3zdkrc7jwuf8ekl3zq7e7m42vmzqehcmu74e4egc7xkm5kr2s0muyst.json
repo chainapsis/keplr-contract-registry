@@ -1,6 +1,7 @@
 {
   "contractAddress": "terra10aa3zdkrc7jwuf8ekl3zq7e7m42vmzqehcmu74e4egc7xkm5kr2s0muyst",
   "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/phoenix/solid.png",
+  "coinGeckoId": "solid-2",
   "metadata": {
     "name": "Solid",
     "symbol": "SOLID",
