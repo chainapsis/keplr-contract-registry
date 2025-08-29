@@ -1,9 +1,9 @@
 {
-  "contractAddress": "terra17aj4ty4sz4yhgm08na8drc0v03v2jwr3waxcqrwhajj729zhl7zqnpc0ml",
-  "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/phoenix/bLUNA.png",
+  "contractAddress": "terra1se7rvuerys4kd2snt6vqswh9wugu49vhyzls8ymc02wl37g2p2ms5yz490",
+  "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/phoenix/arbluna.png",
   "metadata": {
-    "name": "boneLuna",
-    "symbol": "bLUNA",
+    "name": "arbLUNA",
+    "symbol": "arbLUNA",
     "decimals": 6
   }
 }
