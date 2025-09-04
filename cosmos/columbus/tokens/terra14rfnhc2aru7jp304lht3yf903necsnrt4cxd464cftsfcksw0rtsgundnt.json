@@ -1,0 +1,9 @@
+{
+    "contractAddress": "terra14rfnhc2aru7jp304lht3yf903necsnrt4cxd464cftsfcksw0rtsgundnt",
+    "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/columbus/FRG.png",
+    "metadata": {
+        "name": "FRG Universe",
+        "symbol": "FRG",
+        "decimals": 6
+    }
+}
