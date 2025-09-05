@@ -1,0 +1,9 @@
+{
+    "contractAddress": "terra1pyf0rp73neeyunvelqe2ps029pk3at5xg9sn8hnzvv3pehrjqf2qwx7grv",
+    "imageUrl": "https://i.ibb.co.com/PhXGRCn/REX-token.png",
+    "metadata": {
+        "name": "REX",
+        "symbol": "REX",
+        "decimals": 6
+    }
+}
