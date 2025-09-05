@@ -1,0 +1,9 @@
+{
+    "contractAddress": "inj1300xcg9naqy00fujsr9r8alwk7dh65uqu87xm8",
+    "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/injective/shroom.png",
+    "metadata": {
+        "name": "shroomin",
+        "symbol": "SHROOM",
+        "decimals": 18
+    }
+}
