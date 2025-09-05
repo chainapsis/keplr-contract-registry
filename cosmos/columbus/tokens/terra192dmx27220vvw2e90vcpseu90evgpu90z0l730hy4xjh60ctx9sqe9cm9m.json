@@ -1,6 +1,6 @@
 {
     "contractAddress": "terra192dmx27220vvw2e90vcpseu90evgpu90z0l730hy4xjh60ctx9sqe9cm9m",
-    "imageUrl": "https://raw.githubusercontent.com/BobCatLunc/keplr-contract-registry/refs/heads/main/images/columbus/BURNIX.png",
+    "imageUrl": "https://raw.githubusercontent.com/BobCatLunc/keplr-contract-registry/main/images/columbus/BURNIX.png",
     "metadata": {
         "name": "Burnix",
         "symbol": "BURNIX",
