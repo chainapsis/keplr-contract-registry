@@ -1,0 +1,9 @@
+{
+  "contractAddress": "terra1lxx40s29qvkrcj8fsa3yzyehy7w50umdvvnls2r830rys6lu2zns63eelv",
+  "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/phoenix/ROAR.png",
+  "metadata": {
+    "name": "Lion DAO",
+    "symbol": "ROAR",
+    "decimals": 6
+  }
+}
