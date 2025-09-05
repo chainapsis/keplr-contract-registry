@@ -1,0 +1,9 @@
+{
+    "contractAddress": "terra10quf590wyr8tuf3pp05hgwm94n3dgfnma377uwaynl3tj47df7nskwdxgs",
+    "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/columbus/cnip.png",
+    "metadata": {
+        "name": "Catnip",
+        "symbol": "CNIP",
+        "decimals": 6
+    }
+}
