@@ -1,0 +1,9 @@
+{
+  "contractAddress": "terra1mm8tdp40r2slzwqxk8jsz66ayc4zp69muxeateq37x2xquttzsaqy7275a",
+  "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/columbus/lunctoken.png",
+  "metadata": {
+    "name": "Lunctoken",
+    "symbol": "LTK",
+    "decimals": 6
+  }
+}
