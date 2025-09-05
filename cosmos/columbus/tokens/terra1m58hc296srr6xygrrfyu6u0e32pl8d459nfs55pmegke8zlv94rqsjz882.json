@@ -2,8 +2,9 @@
     "contractAddress": "terra1m58hc296srr6xygrrfyu6u0e32pl8d459nfs55pmegke8zlv94rqsjz882",
     "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/columbus/cwh.png",
     "metadata": {
-        "name": "CatWifHat",
-        "symbol": "CWH",
+        "name": "Cat Wif Hat",
+        "symbol": "CatWifHat",
         "decimals": 6
     }
+
 }
