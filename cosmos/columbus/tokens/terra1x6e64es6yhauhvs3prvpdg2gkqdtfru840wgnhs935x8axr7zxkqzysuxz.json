@@ -1,0 +1,9 @@
+{
+    "contractAddress": "terra1x6e64es6yhauhvs3prvpdg2gkqdtfru840wgnhs935x8axr7zxkqzysuxz",
+    "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/columbus/ALPHA.png",
+    "metadata": {
+        "name": "ALPHA",
+        "symbol": "ALPHA",
+        "decimals": 6
+    }
+}
