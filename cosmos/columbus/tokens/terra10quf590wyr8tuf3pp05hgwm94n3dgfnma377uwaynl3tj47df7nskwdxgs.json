@@ -3,8 +3,9 @@
     "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/columbus/cnip.png",
     "metadata": {
         "name": "Catnip",
-        "symbol": "Catnip",
+        "symbol": "CNip",
         "decimals": 6
     }
 
 }
+
