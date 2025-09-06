@@ -1,0 +1,5 @@
+{
+  "chainId": "bbn-1",
+  "rest": "https://babylon.nodes.guru/api",
+  "bech32PrefixAccAddr": "bbn"
+}

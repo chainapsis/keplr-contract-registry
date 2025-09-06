@@ -1,0 +1,9 @@
+{
+    "contractAddress": "terra1nnmlzhgw92kwyk036r0m3j3u0ydt3enad4vtxlggly886cujq5csrs6k9u",
+    "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/columbus/ampnip.png",
+    "metadata": {
+        "name": "Amplified Catnip",
+        "symbol": "ampNIP",
+        "decimals": 6
+    }
+}

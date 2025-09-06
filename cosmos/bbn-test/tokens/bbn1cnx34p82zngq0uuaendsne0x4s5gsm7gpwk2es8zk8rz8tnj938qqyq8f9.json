@@ -1,0 +1,9 @@
+{
+  "contractAddress": "bbn1cnx34p82zngq0uuaendsne0x4s5gsm7gpwk2es8zk8rz8tnj938qqyq8f9",
+  "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/bbn-test/ebaby.png",
+  "metadata": {
+    "name": "ebbn",
+    "symbol": "eBABY",
+    "decimals": 6
+  }
+}

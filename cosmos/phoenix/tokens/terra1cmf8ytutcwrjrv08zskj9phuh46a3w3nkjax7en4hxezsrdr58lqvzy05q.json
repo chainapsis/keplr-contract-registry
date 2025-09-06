@@ -1,0 +1,9 @@
+{
+  "contractAddress": "terra1cmf8ytutcwrjrv08zskj9phuh46a3w3nkjax7en4hxezsrdr58lqvzy05q",
+  "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/phoenix/Alem.png",
+  "metadata": {
+    "name": "alentejo.money",
+    "symbol": "Alem",
+    "decimals": 6
+  }
+}
