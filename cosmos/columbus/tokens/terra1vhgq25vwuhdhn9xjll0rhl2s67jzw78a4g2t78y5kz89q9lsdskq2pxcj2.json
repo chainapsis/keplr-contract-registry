@@ -1,0 +1,11 @@
+{
+    "contractAddress": "terra1vhgq25vwuhdhn9xjll0rhl2s67jzw78a4g2t78y5kz89q9lsdskq2pxcj2",
+    "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/columbus/juris.png",
+    "metadata": {
+        "name": "Juris Protocol",
+        "symbol": "JURIS",
+        "decimals": 6
+  },
+  "coinGeckoId": "juris-protocol"
+}
+ 

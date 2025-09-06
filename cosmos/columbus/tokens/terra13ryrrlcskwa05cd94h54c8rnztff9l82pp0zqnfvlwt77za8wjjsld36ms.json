@@ -1,0 +1,9 @@
+{
+    "contractAddress": "terra13ryrrlcskwa05cd94h54c8rnztff9l82pp0zqnfvlwt77za8wjjsld36ms",
+    "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/columbus/weso.png",
+    "metadata": {
+        "name": "WESO World",
+        "symbol": "WESO",
+        "decimals": 6
+    }
+}

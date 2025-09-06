@@ -1,0 +1,9 @@
+{
+  "contractAddress": "bbn1m83xl7pshe9dt25ztlnlqfy8ksaxdp5e098fcl372fjdacpusdcqjp4zx3",
+  "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/bbn/WBTC.png",
+  "metadata": {
+    "name": "SatLayer WBTC Bridged",
+    "symbol": "satWBTC.e",
+    "decimals": 8
+  }
+}

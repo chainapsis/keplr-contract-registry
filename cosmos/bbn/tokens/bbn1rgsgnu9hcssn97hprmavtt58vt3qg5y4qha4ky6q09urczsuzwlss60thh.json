@@ -1,0 +1,9 @@
+{
+  "contractAddress": "bbn1rgsgnu9hcssn97hprmavtt58vt3qg5y4qha4ky6q09urczsuzwlss60thh",
+  "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/bbn/eBTC.png",
+  "metadata": {
+    "name": "ether.fi BTC",
+    "symbol": "eBTC",
+    "decimals": 8
+  }
+}

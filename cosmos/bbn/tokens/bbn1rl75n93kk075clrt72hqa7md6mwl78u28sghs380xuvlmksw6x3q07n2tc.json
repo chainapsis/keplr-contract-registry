@@ -1,0 +1,9 @@
+{
+  "contractAddress": "bbn1rl75n93kk075clrt72hqa7md6mwl78u28sghs380xuvlmksw6x3q07n2tc",
+  "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/bbn/xSolvBTC.png",
+  "metadata": {
+    "name": "SatLayer xSatSolvBTC Bridged",
+    "symbol": "satXSolvBTC.e",
+    "decimals": 18
+  }
+}

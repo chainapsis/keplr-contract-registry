@@ -1,0 +1,9 @@
+{
+  "contractAddress": "bbn1ztf5dlsljzmxn800yeydplwyvpp828fjkyy29gtjzerd4mu4kxsscmzc0a",
+  "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/bbn/xSolvBTC.png",
+  "metadata": {
+    "name": "xSolvBTC",
+    "symbol": "xSolvBTC",
+    "decimals": 18
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "contractAddress": "bbn1j7yz208yls9v5vcgsekwaf096wk2ysyrdn0u747868v80fd05tjsalq9ll",
+  "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/bbn/mBTC.png",
+  "metadata": {
+    "name": "Liquid Staked BTC",
+    "symbol": "mBTC",
+    "decimals": 8
+  }
+}
