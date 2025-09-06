@@ -1,0 +1,9 @@
+{
+  "contractAddress": "bbn17awjw4g3a7wn5eruejf6hmshc8y06wpz6qu7ue32xygcueu55zqs33aq93",
+  "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/bbn/stBTC.png",
+  "metadata": {
+    "name": "SatLayer stBTC Bridged",
+    "symbol": "satStBTC.e",
+    "decimals": 18
+  }
+}

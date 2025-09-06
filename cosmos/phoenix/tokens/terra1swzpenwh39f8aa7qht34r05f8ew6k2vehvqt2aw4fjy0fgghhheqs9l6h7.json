@@ -1,0 +1,9 @@
+{
+  "contractAddress": "terra1swzpenwh39f8aa7qht34r05f8ew6k2vehvqt2aw4fjy0fgghhheqs9l6h7",
+  "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/phoenix/trs.png",
+  "metadata": {
+    "name": "torus",
+    "symbol": "TRS",
+    "decimals": 6
+  }
+}

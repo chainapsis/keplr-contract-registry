@@ -1,0 +1,9 @@
+{
+  "contractAddress": "terra1ysd87nayjuelxj4wvp4wnp9as0mwszzkje6a9z6f3xx2903ghnsq4hm50y",
+  "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/phoenix/arika.png",
+  "metadata": {
+    "name": "arika",
+    "symbol": "ARK",
+    "decimals": 6
+  }
+}
