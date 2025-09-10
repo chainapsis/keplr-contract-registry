@@ -1,0 +1,9 @@
+{
+    "contractAddress": "terra10sfn80av99qkcx3rdpm4rt9hsguadyra5ewyxr",
+    "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/columbus/SON.png",
+    "metadata": {
+        "name": "Sonic Token",
+        "symbol": "SON",
+        "decimals": 6
+    }
+}
