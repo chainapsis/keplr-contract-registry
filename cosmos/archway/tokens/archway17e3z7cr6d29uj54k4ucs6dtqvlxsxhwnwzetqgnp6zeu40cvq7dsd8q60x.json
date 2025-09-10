@@ -1,0 +1,9 @@
+{
+    "contractAddress": "archway17e3z7cr6d29uj54k4ucs6dtqvlxsxhwnwzetqgnp6zeu40cvq7dsd8q60x",
+    "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/archway/barch.png",
+    "metadata": {
+      "name": "bARCH",
+      "symbol": "bARCH",
+      "decimals": 18
+    }
+  }
