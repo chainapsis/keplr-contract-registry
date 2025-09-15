@@ -1,0 +1,5 @@
+{
+  "chainId": "rebel-2",
+  "rest": "http://81.169.136.147:1317/",
+  "bech32PrefixAccAddr": "terra"
+}
