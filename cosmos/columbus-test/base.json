@@ -1,5 +1,5 @@
 {
   "chainId": "rebel-2",
-  "rest": "http://81.169.136.147:1317/",
+  "rest": "rebel-lcd.luncgoblins.com",
   "bech32PrefixAccAddr": "terra"
 }
