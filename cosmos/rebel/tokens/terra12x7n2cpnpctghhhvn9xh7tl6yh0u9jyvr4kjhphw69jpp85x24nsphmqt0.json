@@ -1,0 +1,9 @@
+  {
+    "contractAddress": "terra12x7n2cpnpctghhhvn9xh7tl6yh0u9jyvr4kjhphw69jpp85x24nsphmqt0",
+    "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/rebel/btc.png",
+    "metadata": {
+      "name": "Bitcoin (Wrapped) (Testnet)",
+      "symbol": "BTC",
+      "decimals": 6
+    }
+  }
