@@ -2,7 +2,7 @@
     "contractAddress": "terra154hadnff5fu6lj2nlf0zpqlfmaquy0qelhvd8qrpgtlsyvvtywkqsd05p3",
     "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/rebel/usdc.png",
     "metadata": {
-        "name": "USD Coin (Testnet)",
+        "name": "Circle USD",
         "symbol": "USDC",
         "decimals": 6
   }
