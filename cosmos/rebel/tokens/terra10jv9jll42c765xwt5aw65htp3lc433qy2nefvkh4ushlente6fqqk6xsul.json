@@ -2,7 +2,7 @@
     "contractAddress": "terra10jv9jll42c765xwt5aw65htp3lc433qy2nefvkh4ushlente6fqqk6xsul",
     "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/rebel/paxg.png",
     "metadata": {
-        "name": "PAXG (Testnet)",
+        "name": "PAX Gold",
         "symbol": "PAXG",
         "decimals": 6
   }
