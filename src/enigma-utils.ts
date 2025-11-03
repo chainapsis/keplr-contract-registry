@@ -4,7 +4,6 @@ import { sha256 } from "@noble/hashes/sha256";
 import * as miscreant from "miscreant";
 import { simpleFetch } from "@keplr-wallet/simple-fetch";
 import { Buffer } from "buffer/";
-import { ChainIdHelper } from "@keplr-wallet/cosmos";
 
 const cryptoProvider = new miscreant.PolyfillCryptoProvider();
 
@@ -20,10 +19,6 @@ const hkdfSalt: Uint8Array = new Uint8Array(
     "000000000000000000024bead8df69990852c202db0e0097c1a12ea637d7e96d",
     "hex"
   )
-);
-
-const secretConsensusIoPubKey = new Uint8Array(
-  Buffer.from("79++5YOHfm0SwhlpUDClv7cuCjq9xBZlWqSjDJWkRG8=", "base64")
 );
 
 export class EnigmaUtils implements EncryptionUtils {
@@ -45,14 +40,13 @@ export class EnigmaUtils implements EncryptionUtils {
     );
     this.privkey = privkey;
     this.pubkey = pubkey;
-
-    if (ChainIdHelper.parse(chainId).identifier === "secret") {
-      this.consensusIoPubKey = secretConsensusIoPubKey;
-    }
   }
 
-  private static insecureRandom(count: number): Uint8Array {
-    return new Uint8Array(count);
+  private static secureRandom(count: number): Uint8Array {
+    const nativeArr = new Uint8Array(count);
+    crypto.getRandomValues(nativeArr);
+
+    return nativeArr;
   }
 
   public static GenerateNewKeyPairFromSeed(seed: Uint8Array): {
@@ -68,13 +62,13 @@ export class EnigmaUtils implements EncryptionUtils {
       return this.consensusIoPubKey;
     }
 
-    const response = await simpleFetch<{ result: { TxKey: string } }>(
+    const response = await simpleFetch<{ key: string }>(
       this.url,
-      "/reg/tx-key"
+      "/registration/v1beta1/tx-key"
     );
 
     this.consensusIoPubKey = new Uint8Array(
-      Buffer.from(response.data.result.TxKey, "base64")
+      Buffer.from(response.data.key, "base64")
     );
 
     return this.consensusIoPubKey;
@@ -97,7 +91,7 @@ export class EnigmaUtils implements EncryptionUtils {
     contractCodeHash: string,
     msg: object
   ): Promise<Uint8Array> {
-    const nonce = EnigmaUtils.insecureRandom(32);
+    const nonce = EnigmaUtils.secureRandom(32);
 
     const txEncryptionKey = await this.getTxEncryptionKey(nonce);
 
