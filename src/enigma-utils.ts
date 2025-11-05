@@ -4,6 +4,7 @@ import { sha256 } from "@noble/hashes/sha256";
 import * as miscreant from "miscreant";
 import { simpleFetch } from "@keplr-wallet/simple-fetch";
 import { Buffer } from "buffer/";
+import { webcrypto as nodeWebCrypto } from "node:crypto";
 
 const cryptoProvider = new miscreant.PolyfillCryptoProvider();
 
@@ -44,6 +45,10 @@ export class EnigmaUtils implements EncryptionUtils {
 
   private static secureRandom(count: number): Uint8Array {
     const nativeArr = new Uint8Array(count);
+    const crypto = ((globalThis as unknown as { crypto?: unknown }).crypto ??
+      nodeWebCrypto) as {
+      getRandomValues: (array: Uint8Array) => Uint8Array;
+    };
     crypto.getRandomValues(nativeArr);
 
     return nativeArr;
