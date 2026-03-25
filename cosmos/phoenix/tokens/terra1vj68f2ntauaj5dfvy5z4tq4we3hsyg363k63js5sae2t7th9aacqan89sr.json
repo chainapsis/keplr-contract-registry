@@ -1,0 +1,9 @@
+{
+  "contractAddress": "terra1vj68f2ntauaj5dfvy5z4tq4we3hsyg363k63js5sae2t7th9aacqan89sr",
+  "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/phoenix/danu.png",
+  "metadata": {
+    "name": "danu",
+    "symbol": "DANU",
+    "decimals": 6
+  }
+}

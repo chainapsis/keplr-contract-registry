@@ -1,0 +1,9 @@
+{
+  "contractAddress": "terra1nv36kq4dpxf4d00w4mv4w095ek8kv48f54v46qduruy4fwd2dtzq2uk70j",
+  "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/columbus/tutan-khamun.png",
+  "metadata": {
+    "name": "TUTAN KHAMUN",
+    "symbol": "TKMN",
+    "decimals": 6
+  }
+}

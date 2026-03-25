@@ -1,0 +1,9 @@
+{
+  "contractAddress": "terra1e4lxe4fq6k9652pyu7fyrexsns3r8tlqrdky3z03ky2ptejzdajsh0xvzt",
+  "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/columbus/zanka.png",
+  "metadata": {
+    "name": "Zanka",
+    "symbol": "ZANKA",
+    "decimals": 6
+  }
+}

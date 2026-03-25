@@ -1,0 +1,10 @@
+{
+    "contractAddress": "terra1vy3kc0swag2rhn7jz6n72jp0l2ns0p6r6ez5grxq5uhj2rvs97fqfsetxv",
+    "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/columbus/USTR.png",
+    "metadata": {
+        "name": "USTC Repeg",
+        "symbol": "USTR",
+        "decimals": 18
+    }
+
+}

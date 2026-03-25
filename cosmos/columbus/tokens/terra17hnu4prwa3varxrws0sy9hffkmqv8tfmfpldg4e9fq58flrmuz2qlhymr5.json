@@ -1,0 +1,9 @@
+{
+    "contractAddress": "terra17hnu4prwa3varxrws0sy9hffkmqv8tfmfpldg4e9fq58flrmuz2qlhymr5",
+    "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/columbus/greenfriendlylabs.png",
+    "metadata": {
+        "name": "Greenfriendly Token",
+        "symbol": "GFT",
+        "decimals": 6
+  }
+}

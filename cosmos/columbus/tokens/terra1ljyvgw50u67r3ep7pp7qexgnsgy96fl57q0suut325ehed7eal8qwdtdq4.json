@@ -1,0 +1,9 @@
+{
+  "contractAddress": "terra1ljyvgw50u67r3ep7pp7qexgnsgy96fl57q0suut325ehed7eal8qwdtdq4",
+  "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/columbus/elpaco.png",
+  "metadata": {
+    "name": "EL PACO",
+    "symbol": "ELPACO",
+    "decimals": 6
+  }
+}

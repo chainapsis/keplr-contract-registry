@@ -1,0 +1,9 @@
+{
+    "contractAddress": "terra1wx48f5g06l9qxw8k4gn3200lmseu85vkgangwyn9xdu66mtfsfxq60hkdt",
+    "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/columbus/LCW.png",
+    "metadata": {
+        "name": "Luna Classic World",
+        "symbol": "LCW",
+        "decimals": 6
+    }
+}

@@ -44,7 +44,7 @@ export const fetchTokenMetadata = async (
     );
 
     const decrypted = await enigmaUtils.decrypt(
-      Buffer.from(queryContractInfo.data.data, "base64"),
+      new Uint8Array(Buffer.from(queryContractInfo.data.data, "base64")),
       nonce
     );
     const tokenInfo = JSON.parse(

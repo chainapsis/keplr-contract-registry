@@ -1,0 +1,9 @@
+{
+    "contractAddress": "terra1vzhhsddfe558ug43kn5ct5d3aqj48wnvavlaue4d279eltsp9nnql6q549",
+    "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/columbus/ampcwh.png",
+    "metadata": {
+        "name": "Amplified CatWifHat",
+        "symbol": "ampCWH",
+        "decimals": 6
+    }
+}

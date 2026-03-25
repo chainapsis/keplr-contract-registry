@@ -1,0 +1,9 @@
+  {
+    "contractAddress": "terra1jha0esm2dygyyvmupdxqt2vy59mq6kh5f2c3a8z8d6tjyq3ahtvqet3m82",
+    "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/rebel/eth.png",
+    "metadata": {
+        "name": "Ethereum",
+        "symbol": "ETH",
+        "decimals": 6
+  }
+}

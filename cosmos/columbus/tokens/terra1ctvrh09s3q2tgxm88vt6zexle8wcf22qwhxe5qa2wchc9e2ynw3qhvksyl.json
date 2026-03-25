@@ -1,0 +1,9 @@
+{
+    "contractAddress": "terra1ctvrh09s3q2tgxm88vt6zexle8wcf22qwhxe5qa2wchc9e2ynw3qhvksyl",
+    "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/columbus/Benance.png",
+    "metadata": {
+        "name": "Benance Governance Token",
+        "symbol": "BENANCE",
+        "decimals": 6
+    }
+}

@@ -1,0 +1,9 @@
+  {
+    "contractAddress": "terra12yh4swzkm2acjsk57u77ems8v6q5nrc0aeekn37jxgpxdfrstnnsd7lqqq",
+    "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/rebel/usdt.png",
+    "metadata": {
+        "name": "Tether",
+        "symbol": "USDT",
+        "decimals": 6
+  }
+}

@@ -1,6 +1,7 @@
 {
   "contractAddress": "terra1ecgazyd0waaj3g7l9cmy5gulhxkps2gmxu9ghducvuypjq68mq2s5lvsct",
   "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/phoenix/ampluna.png",
+  "coinGeckoId": "eris-amplified-luna",
   "metadata": {
     "name": "Eris Amplified LUNA",
     "symbol": "ampLUNA",
