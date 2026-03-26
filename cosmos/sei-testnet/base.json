@@ -1,0 +1,6 @@
+{
+  "chainId": "atlantic-2",
+  "rest": "https://rpc-testnet.sei-apis.com",
+  "bech32PrefixAccAddr": "sei",
+  "features": ["cosmwasm"]
+}
