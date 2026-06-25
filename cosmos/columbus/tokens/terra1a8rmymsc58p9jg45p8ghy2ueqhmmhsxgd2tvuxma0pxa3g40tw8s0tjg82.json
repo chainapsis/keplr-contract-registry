@@ -1,9 +1,9 @@
 {
     "contractAddress": "terra1a8rmymsc58p9jg45p8ghy2ueqhmmhsxgd2tvuxma0pxa3g40tw8s0tjg82",
-    "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/columbus/mioffnew.png",
+    "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/columbus/orbittoken.png",
     "metadata": {
-        "name": "MIOFF",
-        "symbol": "MIOFF",
+        "name": "Orbit Wire",
+        "symbol": "ORBIT",
         "decimals": 6
     }
 }
