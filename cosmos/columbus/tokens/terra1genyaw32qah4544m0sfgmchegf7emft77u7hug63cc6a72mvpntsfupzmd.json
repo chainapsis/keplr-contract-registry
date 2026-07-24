@@ -1,0 +1,9 @@
+{
+  "contractAddress": "terra1genyaw32qah4544m0sfgmchegf7emft77u7hug63cc6a72mvpntsfupzmd",
+  "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/columbus/kneel.png",
+  "metadata": {
+    "name": "KNEEL",
+    "symbol": "KNEEL",
+    "decimals": 6
+  }
+}
