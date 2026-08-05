@@ -1,0 +1,9 @@
+{
+  "contractAddress": "axm14rse3e7rkc3qt7drmlulwlkrlzqvh7hv277zv05kyfuwl74udx5sdlw02u",
+  "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/axiome/simba.png",
+  "metadata": {
+    "name": "SIMBA",
+    "symbol": "SIMBA",
+    "decimals": 6
+  }
+}

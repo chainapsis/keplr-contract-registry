@@ -1,0 +1,10 @@
+{
+  "contractAddress": "axm1sj7zrll8n6rh07hgzqtjemeeane53a68fzqzsmnyntw95w4h7z6s24683a",
+  "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/axiome/rip.png",
+  "metadata": {
+    "name": "RIP",
+    "symbol": "RIP",
+    "decimals": 6
+  },
+  "coinGeckoId": "rip"
+}

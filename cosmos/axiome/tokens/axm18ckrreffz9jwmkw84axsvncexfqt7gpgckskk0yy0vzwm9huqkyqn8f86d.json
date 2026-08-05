@@ -1,0 +1,9 @@
+{
+  "contractAddress": "axm18ckrreffz9jwmkw84axsvncexfqt7gpgckskk0yy0vzwm9huqkyqn8f86d",
+  "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/axiome/rbs.png",
+  "metadata": {
+    "name": "Robinson",
+    "symbol": "RBS",
+    "decimals": 6
+  }
+}

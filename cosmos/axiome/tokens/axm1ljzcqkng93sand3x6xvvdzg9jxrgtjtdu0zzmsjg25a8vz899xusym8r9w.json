@@ -1,0 +1,9 @@
+{
+  "contractAddress": "axm1ljzcqkng93sand3x6xvvdzg9jxrgtjtdu0zzmsjg25a8vz899xusym8r9w",
+  "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/axiome/meow.png",
+  "metadata": {
+    "name": "MEOW",
+    "symbol": "MEOW",
+    "decimals": 6
+  }
+}

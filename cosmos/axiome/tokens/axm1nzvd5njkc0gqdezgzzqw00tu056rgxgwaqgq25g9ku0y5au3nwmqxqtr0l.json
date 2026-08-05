@@ -1,0 +1,9 @@
+{
+  "contractAddress": "axm1nzvd5njkc0gqdezgzzqw00tu056rgxgwaqgq25g9ku0y5au3nwmqxqtr0l",
+  "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/axiome/slug.png",
+  "metadata": {
+    "name": "SLUG",
+    "symbol": "SLUG",
+    "decimals": 6
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "contractAddress": "axm1fka7t9avjmx7yphqxn3lzy3880tgcc0wu23xwfwxe5e5y3lkmzfqd6dqvv",
+  "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/axiome/pred.png",
+  "metadata": {
+    "name": "Predator",
+    "symbol": "PRED",
+    "decimals": 6
+  }
+}

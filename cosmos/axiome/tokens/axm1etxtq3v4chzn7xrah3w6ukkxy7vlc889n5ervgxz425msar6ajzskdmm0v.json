@@ -1,0 +1,9 @@
+{
+  "contractAddress": "axm1etxtq3v4chzn7xrah3w6ukkxy7vlc889n5ervgxz425msar6ajzskdmm0v",
+  "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/axiome/axp.png",
+  "metadata": {
+    "name": "Axiome Pay Token",
+    "symbol": "AXP",
+    "decimals": 6
+  }
+}

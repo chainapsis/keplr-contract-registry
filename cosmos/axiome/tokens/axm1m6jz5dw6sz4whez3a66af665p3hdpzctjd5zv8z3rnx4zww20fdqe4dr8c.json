@@ -1,0 +1,9 @@
+{
+  "contractAddress": "axm1m6jz5dw6sz4whez3a66af665p3hdpzctjd5zv8z3rnx4zww20fdqe4dr8c",
+  "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/axiome/hacuna.png",
+  "metadata": {
+    "name": "Hacuna Matata",
+    "symbol": "HACUNA",
+    "decimals": 1
+  }
+}

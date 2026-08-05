@@ -1,0 +1,9 @@
+{
+  "contractAddress": "axm1hz3svgdhmv67lsqlduu0tcnd3f75c0xr0mu48l6ywuwlz43zssjqnua5v5",
+  "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/axiome/rbp.png",
+  "metadata": {
+    "name": "Red&Black Poker",
+    "symbol": "RBP",
+    "decimals": 6
+  }
+}

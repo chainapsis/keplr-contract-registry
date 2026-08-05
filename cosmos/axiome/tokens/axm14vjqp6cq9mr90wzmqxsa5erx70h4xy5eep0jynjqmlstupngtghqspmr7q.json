@@ -1,0 +1,9 @@
+{
+  "contractAddress": "axm14vjqp6cq9mr90wzmqxsa5erx70h4xy5eep0jynjqmlstupngtghqspmr7q",
+  "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/axiome/kepy.png",
+  "metadata": {
+    "name": "Kepy.io",
+    "symbol": "KEPY",
+    "decimals": 6
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "contractAddress": "axm147hy27tdyvmjn4v22eypcgajf0umqunyyxcnuumdac7uvk7avxwsafem8h",
+  "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/axiome/bya.png",
+  "metadata": {
+    "name": "BYAcademy",
+    "symbol": "BYA",
+    "decimals": 6
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "contractAddress": "axm13falgv7wf8v3pqcwhr7suvm8e8j0hu03fjmtwrh2vek2589tdazq5p0atj",
+  "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/axiome/shrim.png",
+  "metadata": {
+    "name": "Shrimps  Peace",
+    "symbol": "SHRIM",
+    "decimals": 6
+  }
+}

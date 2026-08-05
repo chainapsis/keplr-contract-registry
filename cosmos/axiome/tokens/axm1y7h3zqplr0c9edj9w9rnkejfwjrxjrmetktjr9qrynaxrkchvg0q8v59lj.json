@@ -1,0 +1,9 @@
+{
+  "contractAddress": "axm1y7h3zqplr0c9edj9w9rnkejfwjrxjrmetktjr9qrynaxrkchvg0q8v59lj",
+  "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/axiome/ausd.png",
+  "metadata": {
+    "name": "Axiome USD",
+    "symbol": "AUSD",
+    "decimals": 6
+  }
+}
