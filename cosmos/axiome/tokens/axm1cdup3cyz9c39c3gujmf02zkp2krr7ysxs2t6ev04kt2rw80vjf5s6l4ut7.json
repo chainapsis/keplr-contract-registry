@@ -1,0 +1,10 @@
+{
+  "contractAddress": "axm1cdup3cyz9c39c3gujmf02zkp2krr7ysxs2t6ev04kt2rw80vjf5s6l4ut7",
+  "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/axiome/hunt.png",
+  "metadata": {
+    "name": "HUNT",
+    "symbol": "HUNT",
+    "decimals": 6
+  },
+  "coinGeckoId": "hunt-2"
+}

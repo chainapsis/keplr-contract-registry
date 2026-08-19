@@ -1,0 +1,9 @@
+{
+  "contractAddress": "axm1hfaf96lt2y2dx2cr04svej0s0srqydhncxga5lh6zlrzw77d8qzqxday46",
+  "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/axiome/clx.png",
+  "metadata": {
+    "name": "Collexium",
+    "symbol": "CLX",
+    "decimals": 6
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "contractAddress": "axm1c2v4x4ymtgljs45gwsnw7pgl7phrjctewuagu2matd9zm7r78l2qtqwzz8",
+  "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/axiome/gsp.png",
+  "metadata": {
+    "name": "Global Smart Pay",
+    "symbol": "GSP",
+    "decimals": 6
+  }
+}

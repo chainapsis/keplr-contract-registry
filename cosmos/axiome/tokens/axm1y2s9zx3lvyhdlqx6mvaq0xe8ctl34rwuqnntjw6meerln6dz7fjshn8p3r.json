@@ -1,0 +1,9 @@
+{
+  "contractAddress": "axm1y2s9zx3lvyhdlqx6mvaq0xe8ctl34rwuqnntjw6meerln6dz7fjshn8p3r",
+  "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/axiome/zachem.png",
+  "metadata": {
+    "name": "ZACHEM",
+    "symbol": "ZACHEM",
+    "decimals": 6
+  }
+}

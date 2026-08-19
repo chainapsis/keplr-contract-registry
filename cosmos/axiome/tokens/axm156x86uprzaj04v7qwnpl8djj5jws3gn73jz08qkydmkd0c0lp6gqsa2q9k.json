@@ -1,0 +1,9 @@
+{
+  "contractAddress": "axm156x86uprzaj04v7qwnpl8djj5jws3gn73jz08qkydmkd0c0lp6gqsa2q9k",
+  "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/axiome/axmb.png",
+  "metadata": {
+    "name": "Axiome Believers",
+    "symbol": "AXMB",
+    "decimals": 9
+  }
+}

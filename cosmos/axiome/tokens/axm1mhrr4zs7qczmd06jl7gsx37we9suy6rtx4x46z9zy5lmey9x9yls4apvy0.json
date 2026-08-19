@@ -1,0 +1,9 @@
+{
+  "contractAddress": "axm1mhrr4zs7qczmd06jl7gsx37we9suy6rtx4x46z9zy5lmey9x9yls4apvy0",
+  "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/axiome/hrt.png",
+  "metadata": {
+    "name": "Hakuna Reward Token",
+    "symbol": "HRT",
+    "decimals": 6
+  }
+}

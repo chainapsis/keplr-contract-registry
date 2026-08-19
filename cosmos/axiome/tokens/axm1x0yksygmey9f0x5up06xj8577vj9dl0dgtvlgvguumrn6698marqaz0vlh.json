@@ -1,0 +1,9 @@
+{
+  "contractAddress": "axm1x0yksygmey9f0x5up06xj8577vj9dl0dgtvlgvguumrn6698marqaz0vlh",
+  "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/axiome/bsc.png",
+  "metadata": {
+    "name": "Bazer stable coin",
+    "symbol": "BSC",
+    "decimals": 6
+  }
+}

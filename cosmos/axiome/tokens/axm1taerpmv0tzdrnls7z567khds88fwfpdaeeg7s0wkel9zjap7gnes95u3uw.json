@@ -1,0 +1,9 @@
+{
+  "contractAddress": "axm1taerpmv0tzdrnls7z567khds88fwfpdaeeg7s0wkel9zjap7gnes95u3uw",
+  "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/axiome/trvs.png",
+  "metadata": {
+    "name": "Travis",
+    "symbol": "TRVS",
+    "decimals": 6
+  }
+}

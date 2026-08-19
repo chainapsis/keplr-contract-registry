@@ -1,0 +1,9 @@
+{
+  "contractAddress": "axm1p4zr3hqq2dx72a02zewer8w9zwwv8nsx6xsyatruslqg2vmxftdshqc93d",
+  "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/axiome/lstb.png",
+  "metadata": {
+    "name": "Liquid Stake Token Bazer",
+    "symbol": "LSTB",
+    "decimals": 6
+  }
+}

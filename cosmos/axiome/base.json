@@ -1,0 +1,5 @@
+{
+  "chainId": "axiome-1",
+  "rest": "https://axm-lcd.trickle.pro",
+  "bech32PrefixAccAddr": "axm"
+}

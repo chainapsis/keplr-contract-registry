@@ -1,0 +1,9 @@
+{
+  "contractAddress": "axm1t3f4zxve6725sf4glrnlar8uku78j0nyfl0ppzgfju9ft9phvqwqfhrfg5",
+  "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/axiome/chapa.png",
+  "metadata": {
+    "name": "CHAPA",
+    "symbol": "CHAPA",
+    "decimals": 6
+  }
+}

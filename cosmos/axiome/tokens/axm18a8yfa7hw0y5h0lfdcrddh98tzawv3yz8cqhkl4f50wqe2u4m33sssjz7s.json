@@ -1,0 +1,9 @@
+{
+  "contractAddress": "axm18a8yfa7hw0y5h0lfdcrddh98tzawv3yz8cqhkl4f50wqe2u4m33sssjz7s",
+  "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/axiome/usdb.png",
+  "metadata": {
+    "name": "USD Bridged",
+    "symbol": "USDB",
+    "decimals": 6
+  }
+}
