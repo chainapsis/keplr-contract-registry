@@ -1,0 +1,9 @@
+{
+  "contractAddress": "terra1nap4dxh9tv35v0ynd9m4k6zt6c0dq6weszc4j5m564kjls56hu7qcr56ch",
+  "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/columbus/CUSTC.png",
+  "metadata": {
+    "name": "Wrapped TerraClassicUSD",
+    "symbol": "cUSTC",
+    "decimals": 6
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "contractAddress": "terra16wtml2q66g82fdkx66tap0qjkahqwp4lwq3ngtygacg5q0kzycgqvhpax3",
+  "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/columbus/CL8Y.png",
+  "metadata": {
+    "name": "CL8Y",
+    "symbol": "CL8Y",
+    "decimals": 18
+  },
+  "coinGeckoId": "ceramicliberty-com"
+}

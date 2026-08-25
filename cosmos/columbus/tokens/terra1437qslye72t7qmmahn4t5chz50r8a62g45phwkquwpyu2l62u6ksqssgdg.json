@@ -1,0 +1,9 @@
+{
+  "contractAddress": "terra1437qslye72t7qmmahn4t5chz50r8a62g45phwkquwpyu2l62u6ksqssgdg",
+  "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/columbus/CLUNC.png",
+  "metadata": {
+    "name": "Wrapped Luna Classic",
+    "symbol": "cLUNC",
+    "decimals": 6
+  }
+}

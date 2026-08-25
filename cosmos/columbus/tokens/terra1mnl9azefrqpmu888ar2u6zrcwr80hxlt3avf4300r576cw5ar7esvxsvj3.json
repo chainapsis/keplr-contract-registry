@@ -1,0 +1,9 @@
+{
+  "contractAddress": "terra1mnl9azefrqpmu888ar2u6zrcwr80hxlt3avf4300r576cw5ar7esvxsvj3",
+  "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/columbus/VFDUSD.png",
+  "metadata": {
+    "name": "Venus FDUSD (bridged)",
+    "symbol": "vFDUSD",
+    "decimals": 6
+  }
+}
