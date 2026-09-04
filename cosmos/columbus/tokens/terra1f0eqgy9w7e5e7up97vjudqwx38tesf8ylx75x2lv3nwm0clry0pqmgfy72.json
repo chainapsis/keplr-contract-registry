@@ -1,0 +1,9 @@
+{
+  "contractAddress": "terra1f0eqgy9w7e5e7up97vjudqwx38tesf8ylx75x2lv3nwm0clry0pqmgfy72",
+  "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/columbus/UST1.png",
+  "metadata": {
+    "name": "UST1",
+    "symbol": "UST1",
+    "decimals": 6
+  }
+}
