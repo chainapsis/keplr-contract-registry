@@ -1,0 +1,9 @@
+{
+    "contractAddress": "terra1qzs56ru054z2xdl0j8dw8mrc0zhkes2td9kex5a3svp80mnuhedqf2dc0r",
+    "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/columbus/smtsignalx.png",
+    "metadata": {
+        "name": "SMTSignalX",
+        "symbol": "SMTSignalX",
+        "decimals": 6
+    }
+}
