@@ -1,0 +1,9 @@
+{
+  "contractAddress": "terra1syz36q23ga0g22vw5g9wnswqret35zg0mxhgv6vhhtyr8lh3jlcqhyz907",
+  "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/columbus/ADDVOW.png",
+  "metadata": {
+    "name": "ADDVOW",
+    "symbol": "ADDVOW",
+    "decimals": 6
+  }
+}
