@@ -1,0 +1,9 @@
+{
+  "contractAddress": "terra13lc4xzfmzfgds5zux5pp3zuqf665akrdzwlumnjykrt850n96lvsz5y0wg",
+  "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/phoenix/deepstate.png",
+  "metadata": {
+    "name": "DEEPSTATE",
+    "symbol": "DEEPSTATE",
+    "decimals": 6
+  }
+}
