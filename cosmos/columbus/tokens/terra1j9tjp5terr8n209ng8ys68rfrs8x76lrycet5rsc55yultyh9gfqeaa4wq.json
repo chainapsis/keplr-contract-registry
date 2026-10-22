@@ -1,0 +1,9 @@
+{
+    "contractAddress": "terra1j9tjp5terr8n209ng8ys68rfrs8x76lrycet5rsc55yultyh9gfqeaa4wq",
+    "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/columbus/BLAME.png",
+    "metadata": {
+        "name": "#blamefrag",
+        "symbol": "BLAME",
+        "decimals": 6
+    }
+}
