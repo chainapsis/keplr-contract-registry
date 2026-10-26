@@ -6,8 +6,9 @@
     "dev": "nodemon",
     "crawl": "ts-node src/dev/crawling.ts",
     "build": "tsc",
+    "typecheck:pulumi": "tsc --noEmit --skipLibCheck --target es2020 --module commonjs --moduleResolution node pulumi/index.ts",
     "build:clean": "yarn clean && yarn install --immutable && yarn build",
-    "bundle": "rm -rf bundle && esbuild ./src/index.ts --bundle --minify --sourcemap --platform=node --target=node18 --outdir=bundle/server && cp -r ./cosmos ./bundle",
+    "bundle": "rm -rf bundle && esbuild ./src/index.ts --bundle --minify --sourcemap --platform=node --target=node22 --outdir=bundle/server && cp -r ./cosmos ./bundle",
     "lint-test": "eslint \"src/**/*\" && prettier --check \"src/**/*\"",
     "lint-fix": "eslint --fix \"src/**/*\" && prettier --write \"src/**/*\"",
     "validate:token": "ts-node src/scripts/validate-token.ts",
@@ -22,15 +23,15 @@
       "eslint",
       "prettier --check"
     ],
-    "*.json": [
+    "cosmos/**/tokens/*.json": [
       "yarn validate:token"
     ]
   },
   "author": "",
   "license": "Apache-2.0",
   "devDependencies": {
-    "@pulumi/aws": "^5.41.0",
-    "@pulumi/pulumi": "^3.73.0",
+    "@pulumi/aws": "6.64.0",
+    "@pulumi/pulumi": "3.136.0",
     "@types/koa": "^2.13.6",
     "@types/koa-router": "^7.4.4",
     "@types/node": "^18",
