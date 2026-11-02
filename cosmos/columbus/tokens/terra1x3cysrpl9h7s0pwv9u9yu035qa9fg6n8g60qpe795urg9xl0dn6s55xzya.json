@@ -1,0 +1,9 @@
+{
+    "contractAddress": "terra1x3cysrpl9h7s0pwv9u9yu035qa9fg6n8g60qpe795urg9xl0dn6s55xzya",
+    "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/columbus/TEST.png",
+    "metadata": {
+        "name": "Test Studio",
+        "symbol": "TEST",
+        "decimals": 6
+    }
+}
