@@ -1,0 +1,9 @@
+{
+  "contractAddress": "inj1cygx3qepe2za57pcklr8r2wkvn73qaryfx59ej",
+  "imageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-contract-registry/main/images/injective/cygnx.png",
+  "metadata": {
+    "name": "CygnusX",
+    "symbol": "CYGNX",
+    "decimals": 6
+  }
+}
